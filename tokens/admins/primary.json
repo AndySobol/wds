@@ -1202,5 +1202,23 @@
       "value": "$fontFamilies.sfpro",
       "type": "fontFamilies"
     }
+  },
+  "button": {
+    "sm": {
+      "value": "$borderRadius.6",
+      "type": "borderRadius"
+    },
+    "md": {
+      "value": "$borderRadius.8",
+      "type": "borderRadius"
+    },
+    "lg": {
+      "value": "$borderRadius.10",
+      "type": "borderRadius"
+    },
+    "xl": {
+      "value": "$borderRadius.12",
+      "type": "borderRadius"
+    }
   }
 }

@@ -116,7 +116,7 @@
     },
     "glyphs": {
       "prinary": {
-        "value": "$",
+        "value": "$color.neutral.900",
         "type": "color"
       },
       "secondary": {
@@ -140,7 +140,7 @@
         "type": "color"
       },
       "white": {
-        "value": "$",
+        "value": "$color.white",
         "type": "color"
       },
       "disabled": {
@@ -217,7 +217,7 @@
     "button": {
       "primary": {
         "default": {
-          "value": "$",
+          "value": "$color.primary.500",
           "type": "color"
         },
         "hover": {
