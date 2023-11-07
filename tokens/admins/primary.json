@@ -1361,14 +1361,18 @@
     "button": {
       "sm": {
         "padding-height": {
-          "value": "$spacing.6",
+          "value": "$spacing.4",
           "type": "spacing"
         },
         "padding-width": {
-          "value": "$spacing.12",
+          "value": "$spacing.8",
           "type": "spacing"
         },
         "padding-gap": {
+          "value": "$spacing.4",
+          "type": "spacing"
+        },
+        "icon-only": {
           "value": "$spacing.6",
           "type": "spacing"
         }
@@ -1385,11 +1389,15 @@
         "padding-gap": {
           "value": "$spacing.8",
           "type": "spacing"
+        },
+        "icon-only": {
+          "value": "$spacing.10",
+          "type": "spacing"
         }
       },
       "lg": {
         "padding-height": {
-          "value": "$spacing.12",
+          "value": "$spacing.10",
           "type": "spacing"
         },
         "padding-width": {
@@ -1399,11 +1407,15 @@
         "padding-gap": {
           "value": "$spacing.12",
           "type": "spacing"
+        },
+        "icon-only": {
+          "value": "$spacing.12",
+          "type": "spacing"
         }
       },
       "xl": {
         "padding-height": {
-          "value": "$spacing.16",
+          "value": "$spacing.14",
           "type": "spacing"
         },
         "padding-width": {
@@ -1411,7 +1423,29 @@
           "type": "spacing"
         },
         "padding-gap": {
+          "value": "$spacing.12",
+          "type": "spacing"
+        },
+        "icon-only": {
           "value": "$spacing.16",
+          "type": "spacing"
+        }
+      },
+      "2xl": {
+        "padding-height": {
+          "value": "$spacing.20",
+          "type": "spacing"
+        },
+        "padding-width": {
+          "value": "$spacing.32",
+          "type": "spacing"
+        },
+        "padding-gap": {
+          "value": "$spacing.16",
+          "type": "spacing"
+        },
+        "icon-only": {
+          "value": "$spacing.22",
           "type": "spacing"
         }
       }
@@ -1441,11 +1475,11 @@
     "button": {
       "icon": {
         "sm": {
-          "value": "{scale.14}rem",
+          "value": "{scale.12}rem",
           "type": "sizing"
         },
         "md": {
-          "value": "{scale.14}rem",
+          "value": "{scale.12}rem",
           "type": "sizing"
         },
         "lg": {
@@ -1453,6 +1487,10 @@
           "type": "sizing"
         },
         "xl": {
+          "value": "{scale.16}rem",
+          "type": "sizing"
+        },
+        "2xl": {
           "value": "{scale.20}rem",
           "type": "sizing"
         }
@@ -1460,7 +1498,7 @@
       "layout": {
         "sm": {
           "minw": {
-            "value": "{scale.84}rem",
+            "value": "{scale.72}rem",
             "type": "sizing"
           },
           "maxw": {
@@ -1468,11 +1506,15 @@
             "type": "sizing"
           },
           "minh": {
-            "value": "{scale.28}rem",
+            "value": "{scale.24}rem",
             "type": "sizing"
           },
           "maxh": {
-            "value": "{scale.28}rem",
+            "value": "{sizing.button.layout.sm.minh}",
+            "type": "sizing"
+          },
+          "icon": {
+            "value": "{sizing.button.layout.sm.minh}",
             "type": "sizing"
           }
         },
@@ -1490,31 +1532,17 @@
             "type": "sizing"
           },
           "maxh": {
-            "value": "{scale.32}rem",
+            "value": "{sizing.button.layout.md.minh}",
+            "type": "sizing"
+          },
+          "icon": {
+            "value": "{sizing.button.layout.md.minh}",
             "type": "sizing"
           }
         },
         "lg": {
           "minw": {
-            "value": "{scale.128}rem",
-            "type": "sizing"
-          },
-          "maxw": {
-            "value": "{scale.224}rem",
-            "type": "sizing"
-          },
-          "minh": {
-            "value": "{scale.44}rem",
-            "type": "sizing"
-          },
-          "maxh": {
-            "value": "{scale.44}rem",
-            "type": "sizing"
-          }
-        },
-        "xl": {
-          "minw": {
-            "value": "{scale.160}rem",
+            "value": "{scale.96}rem",
             "type": "sizing"
           },
           "maxw": {
@@ -1522,11 +1550,59 @@
             "type": "sizing"
           },
           "minh": {
-            "value": "{scale.56}rem",
+            "value": "{scale.40}rem",
             "type": "sizing"
           },
           "maxh": {
-            "value": "{scale.56}rem",
+            "value": "{sizing.button.layout.lg.minh}",
+            "type": "sizing"
+          },
+          "icon": {
+            "value": "{sizing.button.layout.lg.minh}",
+            "type": "sizing"
+          }
+        },
+        "xl": {
+          "minw": {
+            "value": "{scale.96}rem",
+            "type": "sizing"
+          },
+          "maxw": {
+            "value": "{scale.256}rem",
+            "type": "sizing"
+          },
+          "minh": {
+            "value": "{scale.48}rem",
+            "type": "sizing"
+          },
+          "maxh": {
+            "value": "{sizing.button.layout.xl.minh}",
+            "type": "sizing"
+          },
+          "icon": {
+            "value": "{sizing.button.layout.xl.minh}",
+            "type": "sizing"
+          }
+        },
+        "2xl": {
+          "minw": {
+            "value": "{scale.128}rem",
+            "type": "sizing"
+          },
+          "maxw": {
+            "value": "{scale.256}rem",
+            "type": "sizing"
+          },
+          "minh": {
+            "value": "{scale.64}rem",
+            "type": "sizing"
+          },
+          "maxh": {
+            "value": "{sizing.button.layout.2xl.minh}",
+            "type": "sizing"
+          },
+          "icon": {
+            "value": "{sizing.button.layout.2xl.minh}",
             "type": "sizing"
           }
         }
