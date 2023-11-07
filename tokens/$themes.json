@@ -6,10 +6,9 @@
     "selectedTokenSets": {
       "palette": "source",
       "core": "source",
-      "admins/primary": "source",
+      "admins/primary": "enabled",
       "themes/light": "enabled",
-      "layout": "enabled",
-      "admins/secondary": "source"
+      "admins/secondary": "enabled"
     },
     "group": "themes"
   },
@@ -22,7 +21,6 @@
       "core": "source",
       "admins/primary": "source",
       "themes/dark": "enabled",
-      "layout": "enabled",
       "admins/secondary": "source"
     },
     "group": "themes"
@@ -34,8 +32,7 @@
     "selectedTokenSets": {
       "palette": "source",
       "core": "source",
-      "admins/primary": "source",
-      "layout": "enabled"
+      "admins/primary": "source"
     },
     "group": "admins"
   },
@@ -46,8 +43,7 @@
     "selectedTokenSets": {
       "palette": "source",
       "core": "source",
-      "admins/secondary": "source",
-      "layout": "enabled"
+      "admins/secondary": "source"
     },
     "group": "admins"
   }

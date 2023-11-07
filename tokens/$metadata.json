@@ -4,7 +4,6 @@
     "core",
     "admins/primary",
     "admins/secondary",
-    "layout",
     "themes/light",
     "themes/dark"
   ]
