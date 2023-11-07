@@ -550,6 +550,10 @@
       "value": "20 / $baserem",
       "type": "dimension"
     },
+    "22": {
+      "value": "22 / $baserem",
+      "type": "dimension"
+    },
     "24": {
       "value": "24 / $baserem",
       "type": "dimension"
@@ -742,6 +746,10 @@
     },
     "20": {
       "value": "{scale.20}rem",
+      "type": "spacing"
+    },
+    "22": {
+      "value": "{scale.22}rem",
       "type": "spacing"
     },
     "24": {
