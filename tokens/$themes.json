@@ -2,7 +2,17 @@
   {
     "id": "ec93b8e64afcc1a78f671f3c9edc6f653df76a28",
     "name": "light",
-    "$figmaStyleReferences": {},
+    "$figmaStyleReferences": {
+      "boxShadow.spread.button.primary.hover": "S:271661338bd8862ddef78ce7b921f8f8a2104314,",
+      "boxShadow.spread.button.primary.pressed": "S:2d757510b9a7bad7f449936242f6872d87dceeb1,",
+      "boxShadow.spread.button.primary.focused": "S:7770ab0f7a45205a9860e022aaf8f9d6160b3340,",
+      "boxShadow.spread.button.secondary.hover": "S:6fbbd95c0d809bd0953062212a0e03651747aaa4,",
+      "boxShadow.spread.button.secondary.pressed": "S:42122e22a3d003a9080ecc096ddce20ec596c5f1,",
+      "boxShadow.spread.button.secondary.focused": "S:43c6b99c44d71b90e67010ae50751ff2b66cacb0,",
+      "boxShadow.spread.button.critical.hover": "S:c8d4bf7fabcf221c8d9d0cc6521091c48d5166d4,",
+      "boxShadow.spread.button.critical.pressed": "S:2483fbbc85b31a271375334bb5615897f578433d,",
+      "boxShadow.spread.button.critical.focused": "S:d47f73b080a11acf53acbdca3b6250e666276682,"
+    },
     "selectedTokenSets": {
       "palette": "source",
       "core": "source",
@@ -93,6 +103,12 @@
       "color.link.pressed": "a020f78d827456f99d5c306ae8caa6d9e65476e0",
       "color.link.visited": "6776d7cdd0eb52bc4dd90076807299d5a5d19344",
       "color.link.disabled": "590b29fe3a4df01f6fe9b8e8be282c313daf6877",
+      "color.alpha.primary.16": "c498f7afd2a88a09bbef453586aeea41985ff915",
+      "color.alpha.primary.32": "570789d9eea3654c05383055d2c20b62bb41ce0e",
+      "color.alpha.secondary.16": "e0d5546f1a39edabb6f5d3f50fde4ea0e73eb468",
+      "color.alpha.secondary.32": "7f2a1859983aac885274c56eda6cf1e92bf7b15c",
+      "color.alpha.critical.16": "45f0a34abed0b346ba6708110dc6b93ed62f372a",
+      "color.alpha.critical.32": "3733cc0431636b71560a8874a9e74c4de943fa8e",
       "color.primary.100": "3d9fccd1aaee3df15303360347cf4a0342d6f576",
       "color.primary.200": "051fc50d45ec1b882379c8ddbb86fa87908e65ad",
       "color.primary.300": "6c7a4b4b2f45df9ab831683c53603646445c20f4",

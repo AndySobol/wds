@@ -144,7 +144,7 @@
         "type": "color"
       },
       "disabled": {
-        "value": "$",
+        "value": "{color.neutral.400}",
         "type": "color"
       },
       "support": {
@@ -217,53 +217,53 @@
     "button": {
       "primary": {
         "default": {
-          "value": "$color.primary.500",
+          "value": "{color.primary.500}",
           "type": "color"
         },
         "hover": {
-          "value": "$color.primary.600",
+          "value": "{color.primary.600}",
           "type": "color"
         },
         "presed": {
-          "value": "$color.primary.700",
+          "value": "{color.primary.700}",
           "type": "color"
         },
         "focused": {
-          "value": "$",
+          "value": "{color.primary.500}",
           "type": "color"
         },
         "selected": {
-          "value": "$",
+          "value": "{color.primary.400}",
           "type": "color"
         },
         "selected-hover": {
-          "value": "$",
+          "value": "{color.primary.500}",
           "type": "color"
         }
       },
       "secondary": {
         "default": {
-          "value": "$",
+          "value": "{color.secondary.500}",
           "type": "color"
         },
         "hover": {
-          "value": "$",
+          "value": "{color.secondary.600}",
           "type": "color"
         },
         "presed": {
-          "value": "$",
+          "value": "{color.secondary.700}",
           "type": "color"
         },
         "focused": {
-          "value": "$",
+          "value": "{color.secondary.500}",
           "type": "color"
         },
         "selected": {
-          "value": "$",
+          "value": "{color.secondary.400}",
           "type": "color"
         },
         "selected-hover": {
-          "value": "$",
+          "value": "{color.secondary.500}",
           "type": "color"
         }
       },
@@ -295,32 +295,32 @@
       },
       "critical": {
         "default": {
-          "value": "$",
+          "value": "{color.red.500}",
           "type": "color"
         },
         "hover": {
-          "value": "$",
+          "value": "{color.red.600}",
           "type": "color"
         },
         "presed": {
-          "value": "$",
+          "value": "{color.red.700}",
           "type": "color"
         },
         "focused": {
-          "value": "$",
+          "value": "{color.red.500}",
           "type": "color"
         },
         "selected": {
-          "value": "$",
+          "value": "{color.red.400}",
           "type": "color"
         },
         "selected-hover": {
-          "value": "$",
+          "value": "{color.red.500}",
           "type": "color"
         }
       },
       "disabled": {
-        "value": "$",
+        "value": "{color.neutral.200}",
         "type": "color"
       }
     },
@@ -351,7 +351,7 @@
       }
     },
     "alpha": {
-      "accent": {
+      "primary": {
         "16": {
           "value": "{color.primary.500}",
           "type": "color",
@@ -378,6 +378,62 @@
             }
           }
         }
+      },
+      "secondary": {
+        "16": {
+          "value": "{color.secondary.500}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "{alpha.016}",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "32": {
+          "value": "{color.secondary.500}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "{alpha.032}",
+                "space": "srgb"
+              }
+            }
+          }
+        }
+      },
+      "critical": {
+        "16": {
+          "value": "{color.red.500}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "{alpha.016}",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "32": {
+          "value": "{color.red.500}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "{alpha.032}",
+                "space": "srgb"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -391,7 +447,7 @@
               "y": "{axis.0}",
               "blur": "{blur.0}",
               "spread": "{spreeds.1}",
-              "color": "{color.alpha.accent.16}",
+              "color": "{color.alpha.primary.16}",
               "type": "dropShadow"
             },
             "type": "boxShadow"
@@ -402,7 +458,77 @@
               "y": "{axis.0}",
               "blur": "{blur.0}",
               "spread": "{spreeds.2}",
-              "color": "{color.alpha.accent.32}",
+              "color": "{color.alpha.primary.32}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          },
+          "focused": {
+            "value": {
+              "x": "{axis.0}",
+              "y": "{axis.0}",
+              "blur": "{blur.0}",
+              "spread": "{spreeds.1}",
+              "color": "{color.border.support.focus}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          }
+        },
+        "secondary": {
+          "hover": {
+            "value": {
+              "x": "{axis.0}",
+              "y": "{axis.0}",
+              "blur": "{blur.0}",
+              "spread": "{spreeds.1}",
+              "color": "{color.alpha.secondary.16}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          },
+          "pressed": {
+            "value": {
+              "x": "{axis.0}",
+              "y": "{axis.0}",
+              "blur": "{blur.0}",
+              "spread": "{spreeds.2}",
+              "color": "{color.alpha.secondary.32}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          },
+          "focused": {
+            "value": {
+              "x": "{axis.0}",
+              "y": "{axis.0}",
+              "blur": "{blur.0}",
+              "spread": "{spreeds.1}",
+              "color": "{color.border.support.focus}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          }
+        },
+        "critical": {
+          "hover": {
+            "value": {
+              "x": "{axis.0}",
+              "y": "{axis.0}",
+              "blur": "{blur.0}",
+              "spread": "{spreeds.1}",
+              "color": "{color.alpha.critical.16}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          },
+          "pressed": {
+            "value": {
+              "x": "{axis.0}",
+              "y": "{axis.0}",
+              "blur": "{blur.0}",
+              "spread": "{spreeds.2}",
+              "color": "{color.alpha.critical.32}",
               "type": "dropShadow"
             },
             "type": "boxShadow"
