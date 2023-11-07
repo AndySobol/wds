@@ -964,6 +964,64 @@
         "type": "typography"
       }
     },
+    "labelXS": {
+      "regular": {
+        "value": {
+          "fontFamily": "{fontFamilies.product}",
+          "fontWeight": "{fontWeights.400}",
+          "fontSize": "{fontSizes.8}",
+          "lineHeight": "{lineHeights.8}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "0",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "medium": {
+        "value": {
+          "fontFamily": "{fontFamilies.product}",
+          "fontWeight": "{fontWeights.500}",
+          "fontSize": "{fontSizes.8}",
+          "lineHeight": "{lineHeights.8}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "0",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "semibold": {
+        "value": {
+          "fontFamily": "{fontFamilies.product}",
+          "fontWeight": "{fontWeights.600}",
+          "fontSize": "{fontSizes.8}",
+          "lineHeight": "{lineHeights.8}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "0",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      },
+      "bold": {
+        "value": {
+          "fontFamily": "{fontFamilies.product}",
+          "fontWeight": "{fontWeights.700}",
+          "fontSize": "{fontSizes.8}",
+          "lineHeight": "{lineHeights.8}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "0",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        },
+        "type": "typography"
+      }
+    },
     "linkL": {
       "regular": {
         "value": {
