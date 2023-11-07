@@ -1278,6 +1278,10 @@
       "xl": {
         "value": "$borderRadius.12",
         "type": "borderRadius"
+      },
+      "2xl": {
+        "value": "$borderRadius.16",
+        "type": "borderRadius"
       }
     },
     "link": {
