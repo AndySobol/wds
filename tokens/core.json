@@ -554,6 +554,10 @@
       "value": "24 / $baserem",
       "type": "dimension"
     },
+    "26": {
+      "value": "26 / $baserem",
+      "type": "dimension"
+    },
     "28": {
       "value": "28 / $baserem",
       "type": "dimension"
@@ -574,12 +578,20 @@
       "value": "42 / $baserem",
       "type": "dimension"
     },
+    "44": {
+      "value": "44 / $baserem",
+      "type": "dimension"
+    },
     "48": {
       "value": "48 / $baserem",
       "type": "dimension"
     },
     "54": {
       "value": "54 / $baserem",
+      "type": "dimension"
+    },
+    "56": {
+      "value": "56 / $baserem",
       "type": "dimension"
     },
     "60": {
@@ -693,127 +705,87 @@
   },
   "spacing": {
     "0": {
-      "value": "0 rem",
-      "type": "spacing"
-    },
-    "1": {
-      "value": "$scale.4 rem",
+      "value": "0rem",
       "type": "spacing"
     },
     "2": {
-      "value": "$scale.8 rem",
-      "type": "spacing"
-    },
-    "3": {
-      "value": "$scale.12 rem",
+      "value": "{scale.2}rem",
       "type": "spacing"
     },
     "4": {
-      "value": "$scale.16 rem",
-      "type": "spacing"
-    },
-    "5": {
-      "value": "$scale.20 rem",
+      "value": "{scale.4}rem",
       "type": "spacing"
     },
     "6": {
-      "value": "$scale.24 rem",
+      "value": "{scale.6}rem",
       "type": "spacing"
     },
     "8": {
-      "value": "$scale.32 rem",
+      "value": "{scale.8}rem",
       "type": "spacing"
     },
     "10": {
-      "value": "$scale.40 rem",
+      "value": "{scale.10}rem",
       "type": "spacing"
     },
     "12": {
-      "value": "$scale.48 rem",
+      "value": "{scale.12}rem",
+      "type": "spacing"
+    },
+    "14": {
+      "value": "{scale.14}rem",
       "type": "spacing"
     },
     "16": {
-      "value": "$scale.64 rem",
+      "value": "{scale.16}rem",
       "type": "spacing"
     },
     "20": {
-      "value": "$scale.80 rem",
+      "value": "{scale.20}rem",
       "type": "spacing"
     },
     "24": {
-      "value": "$scale.96 rem",
+      "value": "{scale.24}rem",
+      "type": "spacing"
+    },
+    "28": {
+      "value": "{scale.28}rem",
       "type": "spacing"
     },
     "32": {
-      "value": "$scale.128 rem",
+      "value": "{scale.32}rem",
+      "type": "spacing"
+    },
+    "36": {
+      "value": "{scale.36}rem",
       "type": "spacing"
     },
     "40": {
-      "value": "$scale.160 rem",
+      "value": "{scale.40}rem",
       "type": "spacing"
     },
     "48": {
-      "value": "$scale.192 rem",
-      "type": "spacing"
-    },
-    "56": {
-      "value": "$scale.224 rem",
+      "value": "{scale.48}rem",
       "type": "spacing"
     },
     "64": {
-      "value": "$scale.256 rem",
+      "value": "{scale.64}rem",
       "type": "spacing"
     },
     "80": {
-      "value": "$scale.320 rem",
+      "value": "{scale.80}rem",
       "type": "spacing"
     },
     "96": {
-      "value": "$scale.384 rem",
+      "value": "{scale.96}rem",
       "type": "spacing"
     },
-    "120": {
-      "value": "$scale.480 rem",
-      "type": "spacing"
-    },
-    "140": {
-      "value": "$scale.560 rem",
+    "128": {
+      "value": "{scale.128}rem",
       "type": "spacing"
     },
     "160": {
-      "value": "$scale.640 rem",
-      "type": "spacing"
-    },
-    "180": {
-      "value": "$scale.720 rem",
-      "type": "spacing"
-    },
-    "192": {
-      "value": "$scale.768 rem",
-      "type": "spacing"
-    },
-    "256": {
-      "value": "$scale.1024 rem",
-      "type": "spacing"
-    },
-    "320": {
-      "value": "$scale.1280 rem",
-      "type": "spacing"
-    },
-    "360": {
-      "value": "$scale.1440 rem",
-      "type": "spacing"
-    },
-    "400": {
-      "value": "$scale.1600 rem",
-      "type": "spacing"
-    },
-    "480": {
-      "value": "$scale.1920 rem",
-      "type": "spacing"
-    },
-    "05": {
-      "value": "$scale.2 rem",
+      "value": "{scale.160}rem",
       "type": "spacing"
     }
   },
@@ -877,55 +849,55 @@
   },
   "lineHeights": {
     "8": {
-      "value": "$scale.10 rem",
+      "value": "{scale.10}rem",
       "type": "lineHeights"
     },
     "10": {
-      "value": "$scale.12 rem",
+      "value": "{scale.12}rem",
       "type": "lineHeights"
     },
     "12": {
-      "value": "$scale.14 rem",
+      "value": "{scale.16}rem",
       "type": "lineHeights"
     },
     "14": {
-      "value": "$scale.18 rem",
+      "value": "{scale.20}rem",
       "type": "lineHeights"
     },
     "16": {
-      "value": "$scale.24 rem",
+      "value": "{scale.24}rem",
       "type": "lineHeights"
     },
     "18": {
-      "value": "$scale.28 rem",
+      "value": "{scale.28}rem",
       "type": "lineHeights"
     },
     "20": {
-      "value": "$scale.32 rem",
+      "value": "{scale.32}rem",
       "type": "lineHeights"
     },
     "24": {
-      "value": "$scale.36 rem",
+      "value": "{scale.36}rem",
       "type": "lineHeights"
     },
     "32": {
-      "value": "$scale.42 rem",
+      "value": "{scale.42}rem",
       "type": "lineHeights"
     },
     "36": {
-      "value": "$scale.48 rem",
+      "value": "{scale.48}rem",
       "type": "lineHeights"
     },
     "48": {
-      "value": "$scale.54 rem",
+      "value": "{scale.54}rem",
       "type": "lineHeights"
     },
     "60": {
-      "value": "$scale.72 rem",
+      "value": "{scale.72}rem",
       "type": "lineHeights"
     },
     "72": {
-      "value": "$scale.80 rem",
+      "value": "{scale.80}rem",
       "type": "lineHeights"
     }
   },
