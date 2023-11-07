@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "id": "ec93b8e64afcc1a78f671f3c9edc6f653df76a28",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "palette": "source",
+      "core": "source",
+      "admins/primary": "source",
+      "themes/light": "enabled",
+      "layout": "enabled",
+      "admins/secondary": "source"
+    },
+    "group": "themes"
+  },
+  {
+    "id": "0a5bd32419e9bd617865706296aff12b9caf9738",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "palette": "source",
+      "core": "source",
+      "admins/primary": "source",
+      "themes/dark": "enabled",
+      "layout": "enabled",
+      "admins/secondary": "source"
+    },
+    "group": "themes"
+  },
+  {
+    "id": "eb467e0af6a295896666b0a81ed7a2cdf6c66268",
+    "name": "primary",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "palette": "source",
+      "core": "source",
+      "admins/primary": "source",
+      "layout": "enabled"
+    },
+    "group": "admins"
+  },
+  {
+    "id": "e534d1640d4eac390490caea9bb1e69fd14f62c2",
+    "name": "secondary",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "palette": "source",
+      "core": "source",
+      "admins/secondary": "source",
+      "layout": "enabled"
+    },
+    "group": "admins"
+  }
+]
