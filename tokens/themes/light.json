@@ -3,11 +3,11 @@
     "layer": {
       "100": {
         "default": {
-          "value": "$",
+          "value": "{color.white}",
           "type": "color"
         },
         "hover": {
-          "value": "$",
+          "value": "{color.neutral.050}",
           "type": "color"
         },
         "presed": {
@@ -29,8 +29,9 @@
       },
       "200": {
         "default": {
-          "value": "$",
-          "type": "color"
+          "value": "{color.neutral.100}",
+          "type": "color",
+          "description": "Body background"
         },
         "hover": {
           "value": "$",
