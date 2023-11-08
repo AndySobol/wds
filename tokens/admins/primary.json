@@ -927,7 +927,7 @@
           "fontWeight": "{fontWeights.500}",
           "fontSize": "{fontSizes.12}",
           "lineHeight": "{lineHeights.12}",
-          "letterSpacing": "{letterSpacing.0}",
+          "letterSpacing": "{letterSpacing.neg32}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "paragraphIndent": "0",
           "textDecoration": "{textDecoration.none}",
