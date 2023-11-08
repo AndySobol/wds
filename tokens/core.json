@@ -914,6 +914,10 @@
       "value": "SF Pro",
       "type": "fontFamilies"
     },
+    "table": {
+      "value": "SF Mono",
+      "type": "fontFamilies"
+    },
     "roboto": {
       "value": "Roboto",
       "type": "fontFamilies"
