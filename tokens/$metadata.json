@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "palette",
+    "core",
+    "admins/primary",
+    "admins/secondary",
+    "themes/light",
+    "themes/dark"
+  ]
+}
