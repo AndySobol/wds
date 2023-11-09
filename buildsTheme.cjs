@@ -38,6 +38,16 @@ async function run() {
 					},
 				],
 			},
+      css: {
+				buildPath: 'build/css/',
+				transformGroup: 'tokens-studio',
+				files: [
+					{
+						destination: `vars-${name}.css`,
+						format: 'css/variables',
+					},
+				],
+			},
     },
   }));
 
