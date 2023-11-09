@@ -41,6 +41,7 @@ async function run() {
       css: {
 				buildPath: 'build/css/',
 				transformGroup: 'tokens-studio',
+	      			transforms: "name/cti/kebab",
 				files: [
 					{
 						destination: `vars-${name}.css`,
