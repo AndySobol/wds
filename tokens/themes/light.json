@@ -1,7 +1,7 @@
 {
   "color": {
-    "layer": {
-      "100": {
+    "layout": {
+      "background": {
         "default": {
           "value": "{color.white}",
           "type": "color"
@@ -10,7 +10,7 @@
           "value": "{color.neutral.050}",
           "type": "color"
         },
-        "presed": {
+        "pressed": {
           "value": "$",
           "type": "color"
         },
@@ -25,9 +25,21 @@
         "selected-hover": {
           "value": "$",
           "type": "color"
+        },
+        "inverse": {
+          "value": "$",
+          "type": "color"
+        },
+        "inverse-hover": {
+          "value": "$",
+          "type": "color"
+        },
+        "accent": {
+          "value": "$",
+          "type": "color"
         }
       },
-      "200": {
+      "layer-100": {
         "default": {
           "value": "{color.neutral.100}",
           "type": "color",
@@ -52,9 +64,17 @@
         "selected-hover": {
           "value": "$",
           "type": "color"
+        },
+        "inverse": {
+          "value": "$",
+          "type": "color"
+        },
+        "inverse-hover": {
+          "value": "$",
+          "type": "color"
         }
       },
-      "300": {
+      "layer-200": {
         "default": {
           "value": "$",
           "type": "color"
@@ -78,9 +98,17 @@
         "selected-hover": {
           "value": "$",
           "type": "color"
+        },
+        "inverse": {
+          "value": "$",
+          "type": "color"
+        },
+        "inverse-hover": {
+          "value": "$",
+          "type": "color"
         }
       },
-      "400": {
+      "layer-300": {
         "default": {
           "value": "$",
           "type": "color"
@@ -102,6 +130,14 @@
           "type": "color"
         },
         "selected-hover": {
+          "value": "$",
+          "type": "color"
+        },
+        "inverse": {
+          "value": "$",
+          "type": "color"
+        },
+        "inverse-hover": {
           "value": "$",
           "type": "color"
         }
