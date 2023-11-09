@@ -146,7 +146,6 @@
       "color.neutral.200": "370a440098a55c006b6925f86a397333f951852d",
       "color.neutral.300": "717bc5a72c2a685993902b738daead1fe8250384",
       "color.neutral.400": "66dc87aa5f9aa8eddf5b9fded448802108226161",
-      "color.neutral.500": "050fa9038e858c30e04e3f6276c34a38355250c0",
       "color.neutral.600": "d2a90ee508aa3e3cc9b9cd5177cf5277e7983fdd",
       "color.neutral.700": "c1d1ff8bb6bbef955ca1015742fa4ed259ad4fb8",
       "color.neutral.800": "bcaba272bad7074c63a87a1a091e698f71b9298f",
@@ -228,7 +227,8 @@
       "sizing.button.layout.2xl.maxw": "815353ce4b413698f272184924ed70e3225d6fb8",
       "sizing.button.layout.2xl.minh": "b6465a57326d9a6b9977903d7e95d2c765de99b6",
       "sizing.button.layout.2xl.maxh": "f102480b00749d4ffd8a50a1aa1f52ab2dccaf6d",
-      "sizing.button.layout.2xl.icon": "083c17b1b4f1f3eb7c18a34325407e5129fe467f"
+      "sizing.button.layout.2xl.icon": "083c17b1b4f1f3eb7c18a34325407e5129fe467f",
+      "color.neutral.500": "050fa9038e858c30e04e3f6276c34a38355250c0"
     },
     "group": "themes"
   },
@@ -456,7 +456,6 @@
       "color.neutral.200": "71bafc082276d73d0534d9a3d0c6c0f881519169",
       "color.neutral.300": "a6521c6ff3afe28553ac7cc2e0afaadf7008af5d",
       "color.neutral.400": "2349e9f9b6ab094e9d99c4d5472bc07ffaf8c402",
-      "color.neutral.500": "e0658d809f764e3f148848af380918d61a7d9de4",
       "color.neutral.600": "0b604cbb53e14a852a669726a40e603c9cff5843",
       "color.neutral.700": "0e7b9a8cc8ccd1d3ad1c741ab6d6ab802a74125e",
       "color.neutral.800": "2610f43c188fe3375d8083c414041e495453b7bd",
@@ -538,7 +537,8 @@
       "sizing.button.layout.2xl.maxw": "cda8912b936e45a1cf60918dab528d693711e780",
       "sizing.button.layout.2xl.minh": "45db46de074d38a1c26944f018d75c6a9be4d2b1",
       "sizing.button.layout.2xl.maxh": "6a58004910e2c429bbad0ef75ae15ff952d7ddc4",
-      "sizing.button.layout.2xl.icon": "74cb405ce9ef03191dc71831737d76b3327f2b82"
+      "sizing.button.layout.2xl.icon": "74cb405ce9ef03191dc71831737d76b3327f2b82",
+      "color.neutral.500": "e0658d809f764e3f148848af380918d61a7d9de4"
     },
     "group": "admins"
   },
