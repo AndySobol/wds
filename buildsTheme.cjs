@@ -38,9 +38,20 @@ async function run() {
 					},
 				],
 			},
+			ts: {
+				buildPath: 'build/ts/',
+				transformGroup: 'js',
+				files: [
+					{
+						destination: `vars-${name}.ts`,
+						format: 'javascript/e6',
+					},
+				],
+			},
       css: {
 				buildPath: 'build/css/',
 				transformGroup: 'tokens-studio',
+				transforms: ["name/cti/kebab"],
 				files: [
 					{
 						destination: `vars-${name}.css`,
