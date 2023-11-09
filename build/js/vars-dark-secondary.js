@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 09 Nov 2023 08:12:19 GMT
+ * Generated on Thu, 09 Nov 2023 11:00:50 GMT
  */
 
 module.exports = {
@@ -358,7 +358,7 @@ module.exports = {
   "ColorPrimary200": "#000000",
   "ColorPrimary300": "#000000",
   "ColorPrimary400": "#000000",
-  "ColorPrimary500": "#000000",
+  "ColorPrimary500": "#f79009",
   "ColorPrimary600": "#000000",
   "ColorPrimary700": "#000000",
   "ColorPrimary800": "#000000",
@@ -370,7 +370,7 @@ module.exports = {
   "ColorSecondary200": "#000000",
   "ColorSecondary300": "#000000",
   "ColorSecondary400": "#000000",
-  "ColorSecondary500": "#000000",
+  "ColorSecondary500": "#70707b",
   "ColorSecondary600": "#000000",
   "ColorSecondary700": "#000000",
   "ColorSecondary800": "#000000",
@@ -382,7 +382,7 @@ module.exports = {
   "ColorNeutral200": "#000000",
   "ColorNeutral300": "#000000",
   "ColorNeutral400": "#000000",
-  "ColorNeutral500": "#000000",
+  "ColorNeutral500": "#6c737f",
   "ColorNeutral600": "#000000",
   "ColorNeutral700": "#000000",
   "ColorNeutral800": "#000000",

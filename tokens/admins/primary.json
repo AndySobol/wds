@@ -18,7 +18,7 @@
         "type": "color"
       },
       "500": {
-        "value": "$color.amber.500",
+        "value": "{color.amber.500}",
         "type": "color"
       },
       "600": {
@@ -68,7 +68,7 @@
         "type": "color"
       },
       "500": {
-        "value": "$color.grayIron.500",
+        "value": "{color.grayIron.500}",
         "type": "color"
       },
       "600": {
@@ -118,7 +118,7 @@
         "type": "color"
       },
       "500": {
-        "value": "$color.grayNeutral.500",
+        "value": "{color.grayNeutral.500}",
         "type": "color"
       },
       "600": {
