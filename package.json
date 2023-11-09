@@ -1,0 +1,16 @@
+{
+  "name": "wds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "buildsTheme": "node buildsTheme.cjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tokens-studio/sd-transforms": "^0.11.9",
+    "style-dictionary": "^3.9.0"
+  }
+}

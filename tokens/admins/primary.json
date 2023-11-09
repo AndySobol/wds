@@ -18,7 +18,7 @@
         "type": "color"
       },
       "500": {
-        "value": "$color.amber.500",
+        "value": "{color.amber.500}",
         "type": "color"
       },
       "600": {
@@ -52,51 +52,51 @@
     },
     "secondary": {
       "100": {
-        "value": "$color.grayBlue.100",
+        "value": "$color.grayIron.100",
         "type": "color"
       },
       "200": {
-        "value": "$color.grayBlue.200",
+        "value": "$color.grayIron.200",
         "type": "color"
       },
       "300": {
-        "value": "$color.grayBlue.300",
+        "value": "$color.grayIron.300",
         "type": "color"
       },
       "400": {
-        "value": "$color.grayBlue.400",
+        "value": "$color.grayIron.400",
         "type": "color"
       },
       "500": {
-        "value": "$color.grayBlue.500",
+        "value": "{color.grayIron.500}",
         "type": "color"
       },
       "600": {
-        "value": "$color.grayBlue.600",
+        "value": "$color.grayIron.600",
         "type": "color"
       },
       "700": {
-        "value": "$color.grayBlue.700",
+        "value": "$color.grayIron.700",
         "type": "color"
       },
       "800": {
-        "value": "$color.grayBlue.800",
+        "value": "$color.grayIron.800",
         "type": "color"
       },
       "900": {
-        "value": "$color.grayBlue.900",
+        "value": "$color.grayIron.900",
         "type": "color"
       },
       "950": {
-        "value": "$color.grayBlue.950",
+        "value": "$color.grayIron.950",
         "type": "color"
       },
       "025": {
-        "value": "$color.grayBlue.025",
+        "value": "$color.grayIron.025",
         "type": "color"
       },
       "050": {
-        "value": "$color.grayBlue.050",
+        "value": "$color.grayIron.050",
         "type": "color"
       }
     },
@@ -118,7 +118,7 @@
         "type": "color"
       },
       "500": {
-        "value": "$color.grayNeutral.500",
+        "value": "{color.grayNeutral.500}",
         "type": "color"
       },
       "600": {
