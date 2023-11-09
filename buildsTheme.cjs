@@ -44,7 +44,7 @@ async function run() {
 				files: [
 					{
 						destination: `vars-${name}.ts`,
-						format: 'javascript/e6',
+						format: 'javascript/es6',
 					},
 				],
 			},
