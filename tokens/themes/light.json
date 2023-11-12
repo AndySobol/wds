@@ -15,27 +15,27 @@
           "type": "color"
         },
         "focused": {
-          "value": "{}",
+          "value": "{color.neutral.050}",
           "type": "color"
         },
         "selected": {
-          "value": "{}",
+          "value": "{color.neutral.050}",
           "type": "color"
         },
         "selected-hover": {
-          "value": "{}",
+          "value": "{color.neutral.100}",
           "type": "color"
         },
         "inverse": {
-          "value": "{}",
+          "value": "{color.neutral.900}",
           "type": "color"
         },
         "inverse-hover": {
-          "value": "{}",
+          "value": "{color.neutral.800}",
           "type": "color"
         },
         "accent": {
-          "value": "{}",
+          "value": "{color.accent.200}",
           "type": "color"
         }
       },
@@ -47,31 +47,31 @@
           "description": "Body background"
         },
         "hover": {
-          "value": "$",
+          "value": "{color.neutral.050}",
           "type": "color"
         },
         "presed": {
-          "value": "$",
+          "value": "{color.neutral.100}",
           "type": "color"
         },
         "focused": {
-          "value": "$",
+          "value": "{color.white}",
           "type": "color"
         },
         "selected": {
-          "value": "$",
+          "value": "{color.white}",
           "type": "color"
         },
         "selected-hover": {
-          "value": "$",
+          "value": "{color.neutral.050}",
           "type": "color"
         },
         "inverse": {
-          "value": "$",
+          "value": "{color.neutral.950}",
           "type": "color"
         },
         "inverse-hover": {
-          "value": "$",
+          "value": "{color.neutral.900}",
           "type": "color"
         }
       },
@@ -81,31 +81,31 @@
           "type": "color"
         },
         "hover": {
-          "value": "$",
+          "value": "{color.neutral.100}",
           "type": "color"
         },
         "presed": {
-          "value": "$",
+          "value": "{color.neutral.200}",
           "type": "color"
         },
         "focused": {
-          "value": "$",
+          "value": "{color.neutral.050}",
           "type": "color"
         },
         "selected": {
-          "value": "$",
+          "value": "{color.neutral.050}",
           "type": "color"
         },
         "selected-hover": {
-          "value": "$",
+          "value": "{color.neutral.100}",
           "type": "color"
         },
         "inverse": {
-          "value": "$",
+          "value": "{color.neutral.900}",
           "type": "color"
         },
         "inverse-hover": {
-          "value": "$",
+          "value": "{color.neutral.800}",
           "type": "color"
         }
       },
@@ -115,31 +115,31 @@
           "type": "color"
         },
         "hover": {
-          "value": "$",
+          "value": "{color.neutral.200}",
           "type": "color"
         },
         "presed": {
-          "value": "$",
+          "value": "{color.neutral.300}",
           "type": "color"
         },
         "focused": {
-          "value": "$",
+          "value": "{color.neutral.100}",
           "type": "color"
         },
         "selected": {
-          "value": "$",
+          "value": "{color.neutral.100}",
           "type": "color"
         },
         "selected-hover": {
-          "value": "$",
+          "value": "{color.neutral.200}",
           "type": "color"
         },
         "inverse": {
-          "value": "$",
+          "value": "{color.neutral.800}",
           "type": "color"
         },
         "inverse-hover": {
-          "value": "$",
+          "value": "{color.neutral.700}",
           "type": "color"
         }
       },
