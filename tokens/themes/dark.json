@@ -217,7 +217,7 @@
     "button": {
       "primary": {
         "default": {
-          "value": "$color.primary.500",
+          "value": "$color.accent.500",
           "type": "color"
         },
         "hover": {

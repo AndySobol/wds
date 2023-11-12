@@ -1,20 +1,20 @@
 {
   "color": {
-    "primary": {
+    "accent": {
       "100": {
-        "value": "$color.amber.100",
+        "value": "{color.amber.100}",
         "type": "color"
       },
       "200": {
-        "value": "$color.amber.200",
+        "value": "{color.amber.200}",
         "type": "color"
       },
       "300": {
-        "value": "$color.amber.300",
+        "value": "{color.amber.300}",
         "type": "color"
       },
       "400": {
-        "value": "$color.amber.400",
+        "value": "{color.amber.400}",
         "type": "color"
       },
       "500": {
@@ -22,49 +22,49 @@
         "type": "color"
       },
       "600": {
-        "value": "$color.amber.600",
+        "value": "{color.amber.600}",
         "type": "color"
       },
       "700": {
-        "value": "$color.amber.700",
+        "value": "{color.amber.700}",
         "type": "color"
       },
       "800": {
-        "value": "$color.amber.800",
+        "value": "{color.amber.800}",
         "type": "color"
       },
       "900": {
-        "value": "$color.amber.900",
+        "value": "{color.amber.900}",
         "type": "color"
       },
       "950": {
-        "value": "$color.amber.950",
+        "value": "{color.amber.950}",
         "type": "color"
       },
       "025": {
-        "value": "$color.amber.025",
+        "value": "{color.amber.025}",
         "type": "color"
       },
       "050": {
-        "value": "$color.amber.050",
+        "value": "{color.amber.050}",
         "type": "color"
       }
     },
     "secondary": {
       "100": {
-        "value": "$color.grayIron.100",
+        "value": "{color.grayIron.100}",
         "type": "color"
       },
       "200": {
-        "value": "$color.grayIron.200",
+        "value": "{color.grayIron.200}",
         "type": "color"
       },
       "300": {
-        "value": "$color.grayIron.300",
+        "value": "{color.grayIron.300}",
         "type": "color"
       },
       "400": {
-        "value": "$color.grayIron.400",
+        "value": "{color.grayIron.400}",
         "type": "color"
       },
       "500": {
@@ -72,49 +72,49 @@
         "type": "color"
       },
       "600": {
-        "value": "$color.grayIron.600",
+        "value": "{color.grayIron.600}",
         "type": "color"
       },
       "700": {
-        "value": "$color.grayIron.700",
+        "value": "{color.grayIron.700}",
         "type": "color"
       },
       "800": {
-        "value": "$color.grayIron.800",
+        "value": "{color.grayIron.800}",
         "type": "color"
       },
       "900": {
-        "value": "$color.grayIron.900",
+        "value": "{color.grayIron.900}",
         "type": "color"
       },
       "950": {
-        "value": "$color.grayIron.950",
+        "value": "{color.grayIron.950}",
         "type": "color"
       },
       "025": {
-        "value": "$color.grayIron.025",
+        "value": "{color.grayIron.025}",
         "type": "color"
       },
       "050": {
-        "value": "$color.grayIron.050",
+        "value": "{color.grayIron.050}",
         "type": "color"
       }
     },
     "neutral": {
       "100": {
-        "value": "$color.grayNeutral.100",
+        "value": "{color.grayNeutral.100}",
         "type": "color"
       },
       "200": {
-        "value": "$color.grayNeutral.200",
+        "value": "{color.grayNeutral.200}",
         "type": "color"
       },
       "300": {
-        "value": "$color.grayNeutral.300",
+        "value": "{color.grayNeutral.300}",
         "type": "color"
       },
       "400": {
-        "value": "$color.grayNeutral.400",
+        "value": "{color.grayNeutral.400}",
         "type": "color"
       },
       "500": {
@@ -122,31 +122,31 @@
         "type": "color"
       },
       "600": {
-        "value": "$color.grayNeutral.600",
+        "value": "{color.grayNeutral.600}",
         "type": "color"
       },
       "700": {
-        "value": "$color.grayNeutral.700",
+        "value": "{color.grayNeutral.700}",
         "type": "color"
       },
       "800": {
-        "value": "$color.grayNeutral.800",
+        "value": "{color.grayNeutral.800}",
         "type": "color"
       },
       "900": {
-        "value": "$color.grayNeutral.900",
+        "value": "{color.grayNeutral.900}",
         "type": "color"
       },
       "950": {
-        "value": "$color.grayNeutral.950",
+        "value": "{color.grayNeutral.950}",
         "type": "color"
       },
       "025": {
-        "value": "$color.grayNeutral.025",
+        "value": "{color.grayNeutral.025}",
         "type": "color"
       },
       "050": {
-        "value": "$color.grayNeutral.050",
+        "value": "{color.grayNeutral.050}",
         "type": "color"
       }
     }
@@ -167,10 +167,10 @@
         },
         "type": "typography"
       },
-      "medium": {
+      "semibold": {
         "value": {
           "fontFamily": "{fontFamilies.product}",
-          "fontWeight": "{fontWeights.500}",
+          "fontWeight": "{fontWeights.600}",
           "fontSize": "{fontSizes.72}",
           "lineHeight": "{lineHeights.72}",
           "letterSpacing": "{letterSpacing.neg64}",
@@ -181,10 +181,10 @@
         },
         "type": "typography"
       },
-      "semibold": {
+      "medium": {
         "value": {
           "fontFamily": "{fontFamilies.product}",
-          "fontWeight": "{fontWeights.600}",
+          "fontWeight": "{fontWeights.500}",
           "fontSize": "{fontSizes.72}",
           "lineHeight": "{lineHeights.72}",
           "letterSpacing": "{letterSpacing.neg64}",
@@ -1721,48 +1721,48 @@
   },
   "fontFamilies": {
     "product": {
-      "value": "$fontFamilies.sfpro",
+      "value": "{fontFamilies.sfpro}",
       "type": "fontFamilies"
     }
   },
   "borderRadius": {
     "button": {
       "sm": {
-        "value": "$borderRadius.6",
+        "value": "{borderRadius.6}",
         "type": "borderRadius"
       },
       "md": {
-        "value": "$borderRadius.8",
+        "value": "{borderRadius.8}",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "$borderRadius.10",
+        "value": "{borderRadius.10}",
         "type": "borderRadius"
       },
       "xl": {
-        "value": "$borderRadius.12",
+        "value": "{borderRadius.12}",
         "type": "borderRadius"
       },
       "2xl": {
-        "value": "$borderRadius.16",
+        "value": "{borderRadius.16}",
         "type": "borderRadius"
       }
     },
     "link": {
       "sm": {
-        "value": "$borderRadius.0",
+        "value": "{borderRadius.0}",
         "type": "borderRadius"
       },
       "md": {
-        "value": "$borderRadius.0",
+        "value": "{borderRadius.0}",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "$borderRadius.0",
+        "value": "{borderRadius.0}",
         "type": "borderRadius"
       },
       "xl": {
-        "value": "$borderRadius.0",
+        "value": "{borderRadius.0}",
         "type": "borderRadius"
       }
     }
@@ -1771,57 +1771,57 @@
     "link": {
       "sm": {
         "padding-height": {
-          "value": "$spacing.0",
+          "value": "{spacing.0}",
           "type": "spacing"
         },
         "padding-width": {
-          "value": "$spacing.2",
+          "value": "{spacing.2}",
           "type": "spacing"
         },
         "padding-gap": {
-          "value": "$spacing.4",
+          "value": "{spacing.4}",
           "type": "spacing"
         }
       },
       "md": {
         "padding-height": {
-          "value": "$spacing.0",
+          "value": "{spacing.0}",
           "type": "spacing"
         },
         "padding-width": {
-          "value": "$spacing.2",
+          "value": "{spacing.2}",
           "type": "spacing"
         },
         "padding-gap": {
-          "value": "$spacing.6",
+          "value": "{spacing.6}",
           "type": "spacing"
         }
       },
       "lg": {
         "padding-height": {
-          "value": "$spacing.0",
+          "value": "{spacing.0}",
           "type": "spacing"
         },
         "padding-width": {
-          "value": "$spacing.2",
+          "value": "{spacing.2}",
           "type": "spacing"
         },
         "padding-gap": {
-          "value": "$spacing.8",
+          "value": "{spacing.8}",
           "type": "spacing"
         }
       },
       "xl": {
         "padding-height": {
-          "value": "$spacing.0",
+          "value": "{spacing.0}",
           "type": "spacing"
         },
         "padding-width": {
-          "value": "$spacing.2",
+          "value": "{spacing.2}",
           "type": "spacing"
         },
         "padding-gap": {
-          "value": "$spacing.10",
+          "value": "{spacing.10}",
           "type": "spacing"
         }
       }
@@ -1829,91 +1829,91 @@
     "button": {
       "sm": {
         "padding-height": {
-          "value": "$spacing.4",
+          "value": "{spacing.4}",
           "type": "spacing"
         },
         "padding-width": {
-          "value": "$spacing.8",
+          "value": "{spacing.8}",
           "type": "spacing"
         },
         "padding-gap": {
-          "value": "$spacing.4",
+          "value": "{spacing.4}",
           "type": "spacing"
         },
         "icon-only": {
-          "value": "$spacing.6",
+          "value": "{spacing.6}",
           "type": "spacing"
         }
       },
       "md": {
         "padding-height": {
-          "value": "$spacing.8",
+          "value": "{spacing.8}",
           "type": "spacing"
         },
         "padding-width": {
-          "value": "$spacing.16",
+          "value": "{spacing.16}",
           "type": "spacing"
         },
         "padding-gap": {
-          "value": "$spacing.8",
+          "value": "{spacing.8}",
           "type": "spacing"
         },
         "icon-only": {
-          "value": "$spacing.10",
+          "value": "{spacing.10}",
           "type": "spacing"
         }
       },
       "lg": {
         "padding-height": {
-          "value": "$spacing.10",
+          "value": "{spacing.10}",
           "type": "spacing"
         },
         "padding-width": {
-          "value": "$spacing.20",
+          "value": "{spacing.20}",
           "type": "spacing"
         },
         "padding-gap": {
-          "value": "$spacing.12",
+          "value": "{spacing.12}",
           "type": "spacing"
         },
         "icon-only": {
-          "value": "$spacing.12",
+          "value": "{spacing.12}",
           "type": "spacing"
         }
       },
       "xl": {
         "padding-height": {
-          "value": "$spacing.14",
+          "value": "{spacing.14}",
           "type": "spacing"
         },
         "padding-width": {
-          "value": "$spacing.24",
+          "value": "{spacing.24}",
           "type": "spacing"
         },
         "padding-gap": {
-          "value": "$spacing.12",
+          "value": "{spacing.12}",
           "type": "spacing"
         },
         "icon-only": {
-          "value": "$spacing.16",
+          "value": "{spacing.16}",
           "type": "spacing"
         }
       },
       "2xl": {
         "padding-height": {
-          "value": "$spacing.20",
+          "value": "{spacing.20}",
           "type": "spacing"
         },
         "padding-width": {
-          "value": "$spacing.32",
+          "value": "{spacing.32}",
           "type": "spacing"
         },
         "padding-gap": {
-          "value": "$spacing.16",
+          "value": "{spacing.16}",
           "type": "spacing"
         },
         "icon-only": {
-          "value": "$spacing.22",
+          "value": "{spacing.22}",
           "type": "spacing"
         }
       }
