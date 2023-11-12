@@ -1,0 +1,27 @@
+
+:root {
+    --shadowBoxshadowElevation100: 0 1px 2px 0 rgba(0,0,0,1);  
+    --shadowBoxshadowElevation200: 0 1px 2px 0 rgba(0,0,0,1);  
+    --shadowBoxshadowElevation300: 0 2px 4px -2px rgba(0,0,0,1);  
+    --shadowBoxshadowElevation400: 0 4px 6px -2px rgba(0,0,0,1);  
+    --shadowBoxshadowElevation500: 0 8px 8px -4px rgba(0,0,0,1);  
+    --shadowBoxshadowElevation600: 0 24px 48px -12px rgba(0,0,0,1);  
+    --shadowBoxshadowElevation700: 0 32px 64px -12px rgba(0,0,0,1);  
+    --shadowBoxshadowElevationFocus100: 0 1px 2px 0 rgba(0,0,0,1);  
+    --shadowBoxshadowElevationFocus200: 0 1px 2px 0 rgba(0,0,0,1);  
+    --shadowBoxshadowElevationFocus300: 0 2px 4px -2px rgba(0,0,0,1);  
+    --shadowBoxshadowElevationFocus400: 0 4px 6px -2px rgba(0,0,0,1);  
+    --shadowBoxshadowElevationFocus500: 0 8px 8px -4px rgba(0,0,0,1);  
+    --shadowBoxshadowElevationFocus600: 0 24px 48px -12px rgba(0,0,0,1);  
+    --shadowBoxshadowElevationFocus700: 0 32px 64px -12px rgba(0,0,0,1);  
+    --shadowBoxshadowSpreadButtonPrimaryHover: 0 0 0 1px rgba(247,144,9,1);  
+    --shadowBoxshadowSpreadButtonPrimaryPressed: 0 0 0 2px rgba(112,112,123,1);  
+    --shadowBoxshadowSpreadButtonPrimaryFocused: 0 0 0 2px rgba(247,144,9,1);  
+    --shadowBoxshadowSpreadButtonSecondaryHover: 0 0 0 1px rgba(112,112,123,1);  
+    --shadowBoxshadowSpreadButtonSecondaryPressed: 0 0 0 2px rgba(112,112,123,1);  
+    --shadowBoxshadowSpreadButtonSecondaryFocused: 0 0 0 1px rgba(112,112,123,1);  
+    --shadowBoxshadowSpreadButtonCriticalHover: 0 0 0 1px rgba(240,68,56,1);  
+    --shadowBoxshadowSpreadButtonCriticalPressed: 0 0 0 2px rgba(240,68,56,1);  
+    --shadowBoxshadowSpreadButtonCriticalFocused: 0 0 0 1px rgba(240,68,56,1);  
+    --shadowBoxshadowFocusPrimary: 0 0 0 2px rgba(0,0,0,1);  
+}
