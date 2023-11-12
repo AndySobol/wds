@@ -171,15 +171,15 @@
       }
     },
     "border": {
-      "primary": {
+      "strong": {
         "value": "$",
         "type": "color"
       },
-      "secondary": {
+      "medium": {
         "value": "$",
         "type": "color"
       },
-      "tertiary": {
+      "regular": {
         "value": "$",
         "type": "color"
       },
