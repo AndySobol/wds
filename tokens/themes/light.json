@@ -43,7 +43,6 @@
         "default": {
           "value": "{color.white}",
           "type": "color",
-          "$extensions": {},
           "description": "Body background"
         },
         "hover": {
