@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 12 Nov 2023 21:50:54 GMT
+ * Generated on Sun, 12 Nov 2023 22:19:57 GMT
  */
 
 export const ColorWhite = "#ffffff";
@@ -472,13 +472,13 @@ export const ColorLayoutOverlay = "#000000";
 export const ColorLayoutTransparent = "#ffffff";
 export const ColorLayoutDisabled = "#e4e4e7";
 export const ColorGlyphsPrinary = "#000000";
-export const ColorGlyphsSecondary = "#000000";
-export const ColorGlyphsTertiary = "#000000";
+export const ColorGlyphsSecondary = "#3f3f46";
+export const ColorGlyphsTertiary = "#70707b";
 export const ColorGlyphsPlaceholder = "#d1d1d6";
-export const ColorGlyphsWhite = "#000000";
+export const ColorGlyphsWhite = "#ffffff";
 export const ColorGlyphsDisabled = "#a0a0ab";
 export const ColorGlyphsSupportAccent = "#dc6803";
-export const ColorGlyphsSupportLink = "#000000";
+export const ColorGlyphsSupportLink = "#1570ef";
 export const ColorGlyphsSupportSuccess = "#099250";
 export const ColorGlyphsSupportCaution = "#e04f16";
 export const ColorGlyphsSupportCritical = "#d92d20";

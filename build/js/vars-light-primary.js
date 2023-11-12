@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 12 Nov 2023 21:50:53 GMT
+ * Generated on Sun, 12 Nov 2023 22:19:56 GMT
  */
 
 module.exports = {
@@ -473,13 +473,13 @@ module.exports = {
   "ColorLayoutTransparent": "#ffffff",
   "ColorLayoutDisabled": "#e4e4e7",
   "ColorGlyphsPrinary": "#000000",
-  "ColorGlyphsSecondary": "#000000",
-  "ColorGlyphsTertiary": "#000000",
+  "ColorGlyphsSecondary": "#3f3f46",
+  "ColorGlyphsTertiary": "#70707b",
   "ColorGlyphsPlaceholder": "#d1d1d6",
-  "ColorGlyphsWhite": "#000000",
+  "ColorGlyphsWhite": "#ffffff",
   "ColorGlyphsDisabled": "#a0a0ab",
   "ColorGlyphsSupportAccent": "#dc6803",
-  "ColorGlyphsSupportLink": "#000000",
+  "ColorGlyphsSupportLink": "#1570ef",
   "ColorGlyphsSupportSuccess": "#099250",
   "ColorGlyphsSupportCaution": "#e04f16",
   "ColorGlyphsSupportCritical": "#d92d20",

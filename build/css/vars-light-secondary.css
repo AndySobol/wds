@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 12 Nov 2023 21:50:54 GMT
+ * Generated on Sun, 12 Nov 2023 22:19:57 GMT
  */
 
 :root {
@@ -472,14 +472,14 @@
   --color-layout-overlay: rgba(0, 0, 0, 1);
   --color-layout-transparent: rgba(255, 255, 255, 1);
   --color-layout-disabled: rgba(228, 228, 231, 1);
-  --color-glyphs-prinary: $color.black;
-  --color-glyphs-secondary: $color.neutral.700;
-  --color-glyphs-tertiary: $color.neutral.500;
+  --color-glyphs-prinary: rgba(0, 0, 0, 1);
+  --color-glyphs-secondary: rgba(63, 63, 70, 1);
+  --color-glyphs-tertiary: rgba(112, 112, 123, 1);
   --color-glyphs-placeholder: rgba(209, 209, 214, 1);
-  --color-glyphs-white: $color.white;
+  --color-glyphs-white: rgba(255, 255, 255, 1);
   --color-glyphs-disabled: rgba(160, 160, 171, 1);
   --color-glyphs-support-accent: rgba(220, 104, 3, 1);
-  --color-glyphs-support-link: $color.blue.600;
+  --color-glyphs-support-link: rgba(21, 112, 239, 1);
   --color-glyphs-support-success: rgba(9, 146, 80, 1);
   --color-glyphs-support-caution: rgba(224, 79, 22, 1);
   --color-glyphs-support-critical: rgba(217, 45, 32, 1);
