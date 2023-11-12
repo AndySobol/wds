@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 12 Nov 2023 20:41:36 GMT
+ * Generated on Sun, 12 Nov 2023 21:03:17 GMT
  */
 
 export const ColorWhite = "#ffffff";
@@ -423,18 +423,18 @@ export const ColorSecondary900 = "#1a1a1e";
 export const ColorSecondary950 = "#131316";
 export const ColorSecondary025 = "#fcfcfc";
 export const ColorSecondary050 = "#fafafa";
-export const ColorNeutral100 = "#f3f4f6";
-export const ColorNeutral200 = "#e5e7eb";
-export const ColorNeutral300 = "#d2d6db";
-export const ColorNeutral400 = "#9da4ae";
-export const ColorNeutral500 = "#6c737f";
-export const ColorNeutral600 = "#4d5761";
-export const ColorNeutral700 = "#384250";
-export const ColorNeutral800 = "#1f2a37";
-export const ColorNeutral900 = "#111927";
-export const ColorNeutral950 = "#0d121c";
-export const ColorNeutral025 = "#fcfcfd";
-export const ColorNeutral050 = "#f9fafb";
+export const ColorNeutral100 = "#f4f4f5";
+export const ColorNeutral200 = "#e4e4e7";
+export const ColorNeutral300 = "#d1d1d6";
+export const ColorNeutral400 = "#a0a0ab";
+export const ColorNeutral500 = "#70707b";
+export const ColorNeutral600 = "#51525c";
+export const ColorNeutral700 = "#3f3f46";
+export const ColorNeutral800 = "#26272b";
+export const ColorNeutral900 = "#1a1a1e";
+export const ColorNeutral950 = "#131316";
+export const ColorNeutral025 = "#fcfcfc";
+export const ColorNeutral050 = "#fafafa";
 export const ColorLayer100Default = "#000000";
 export const ColorLayer100Hover = "#000000";
 export const ColorLayer100Presed = "#000000";

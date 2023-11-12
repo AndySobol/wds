@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 12 Nov 2023 20:41:36 GMT
+ * Generated on Sun, 12 Nov 2023 21:03:17 GMT
  */
 
 module.exports = {
@@ -424,18 +424,18 @@ module.exports = {
   "ColorSecondary950": "#131316",
   "ColorSecondary025": "#fcfcfc",
   "ColorSecondary050": "#fafafa",
-  "ColorNeutral100": "#f3f4f6",
-  "ColorNeutral200": "#e5e7eb",
-  "ColorNeutral300": "#d2d6db",
-  "ColorNeutral400": "#9da4ae",
-  "ColorNeutral500": "#6c737f",
-  "ColorNeutral600": "#4d5761",
-  "ColorNeutral700": "#384250",
-  "ColorNeutral800": "#1f2a37",
-  "ColorNeutral900": "#111927",
-  "ColorNeutral950": "#0d121c",
-  "ColorNeutral025": "#fcfcfd",
-  "ColorNeutral050": "#f9fafb",
+  "ColorNeutral100": "#f4f4f5",
+  "ColorNeutral200": "#e4e4e7",
+  "ColorNeutral300": "#d1d1d6",
+  "ColorNeutral400": "#a0a0ab",
+  "ColorNeutral500": "#70707b",
+  "ColorNeutral600": "#51525c",
+  "ColorNeutral700": "#3f3f46",
+  "ColorNeutral800": "#26272b",
+  "ColorNeutral900": "#1a1a1e",
+  "ColorNeutral950": "#131316",
+  "ColorNeutral025": "#fcfcfc",
+  "ColorNeutral050": "#fafafa",
   "ColorLayer100Default": "#000000",
   "ColorLayer100Hover": "#000000",
   "ColorLayer100Presed": "#000000",
