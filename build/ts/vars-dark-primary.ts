@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 12 Nov 2023 21:03:17 GMT
+ * Generated on Sun, 12 Nov 2023 21:50:55 GMT
  */
 
 export const ColorWhite = "#ffffff";
@@ -474,9 +474,9 @@ export const ColorGlyphsSupportLink = "#000000";
 export const ColorGlyphsSupportSuccess = "#000000";
 export const ColorGlyphsSupportCaution = "#000000";
 export const ColorGlyphsSupportCritical = "#000000";
-export const ColorBorderPrimary = "#000000";
-export const ColorBorderSecondary = "#000000";
-export const ColorBorderTertiary = "#000000";
+export const ColorBorderStrong = "#000000";
+export const ColorBorderMedium = "#000000";
+export const ColorBorderRegular = "#000000";
 export const ColorBorderWhite = "#000000";
 export const ColorBorderDisabled = "#000000";
 export const ColorBorderSupportAccent = "#000000";

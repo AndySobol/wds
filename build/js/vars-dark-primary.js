@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 12 Nov 2023 21:03:17 GMT
+ * Generated on Sun, 12 Nov 2023 21:50:54 GMT
  */
 
 module.exports = {
@@ -475,9 +475,9 @@ module.exports = {
   "ColorGlyphsSupportSuccess": "#000000",
   "ColorGlyphsSupportCaution": "#000000",
   "ColorGlyphsSupportCritical": "#000000",
-  "ColorBorderPrimary": "#000000",
-  "ColorBorderSecondary": "#000000",
-  "ColorBorderTertiary": "#000000",
+  "ColorBorderStrong": "#000000",
+  "ColorBorderMedium": "#000000",
+  "ColorBorderRegular": "#000000",
   "ColorBorderWhite": "#000000",
   "ColorBorderDisabled": "#000000",
   "ColorBorderSupportAccent": "#000000",
