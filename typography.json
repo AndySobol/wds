@@ -1,0 +1,4920 @@
+{
+  "typography": {
+    "typography": {
+      "displayl": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.72.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.72.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.72.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.72.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.72.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.72.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.72.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.72.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "displaym": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.60.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.60.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.60.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.60.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.60.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.60.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.60.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.60.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "displays": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.48.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.48.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.48.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.48.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.48.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.48.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.48.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.48.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "titlel": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.32.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.32.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.32.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.32.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.32.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.32.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.32.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.32.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "titlem": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.24.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.24.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.24.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.24.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.24.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.24.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.24.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.24.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "titles": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.20.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.20.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.20.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.20.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.20.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.20.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.20.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.20.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "titlexs": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.18.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.18.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.18.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.18.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.18.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.18.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.18.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.18.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "bodyl": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.16.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.pt32.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.16.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.16.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.pt32.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.16.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.16.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.pt32.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.16.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.16.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.pt32.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.16.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "bodym": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.14.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.pt16.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.14.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.14.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.pt16.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.14.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.14.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.pt16.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.14.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.14.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.pt16.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.14.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "bodys": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.12.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.12.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.12.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.12.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.12.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.12.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.12.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.12.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "bodyxs": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.8.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.8.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.8.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.8.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.8.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.8.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.8.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.8.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "table-numl": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Mono"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.16.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.16.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Mono"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.16.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.16.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Mono"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.16.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.16.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Mono"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.16.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.16.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "table-numm": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Mono"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.14.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.14.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Mono"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.14.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.14.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Mono"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.14.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.14.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Mono"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.14.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.14.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "table-nums": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Mono"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.12.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.12.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Mono"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.12.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.12.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Mono"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.12.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.12.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Mono"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.12.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.12.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "table-numxs": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Mono"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.8.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.8.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Mono"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.8.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.8.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Mono"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.8.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.8.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Mono"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.8.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.8.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "tablel": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.16.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.16.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.16.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.16.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.16.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.16.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.16.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.16.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "tablem": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.14.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.14.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.14.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.14.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.14.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.14.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.14.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.14.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "tables": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.12.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.12.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.12.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.12.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.12.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.12.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.12.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.12.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "tablexs": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.8.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.8.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.8.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.8.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.8.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.8.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.8.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.neg64.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.8.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "labell": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.16.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.16.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.16.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.16.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.16.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.16.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.16.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.16.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "labelm": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.14.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.14.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.14.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.14.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.14.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.14.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.14.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.14.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "labels": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.12.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.12.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.12.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.12.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.12.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.12.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.12.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.12.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "labelxs": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.8.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.8.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.8.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.8.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.8.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.8.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.8.value}"
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.8.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "linkl": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.16.value}"
+            },
+            "textDecoration": "Underline",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.16.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.16.value}"
+            },
+            "textDecoration": "Underline",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.16.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.16.value}"
+            },
+            "textDecoration": "Underline",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.16.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.16.value}"
+            },
+            "textDecoration": "Underline",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.16.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "linkm": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.14.value}"
+            },
+            "textDecoration": "Underline",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.14.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.14.value}"
+            },
+            "textDecoration": "Underline",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.14.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.14.value}"
+            },
+            "textDecoration": "Underline",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.14.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.14.value}"
+            },
+            "textDecoration": "Underline",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.14.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "links": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.12.value}"
+            },
+            "textDecoration": "Underline",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.12.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.12.value}"
+            },
+            "textDecoration": "Underline",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.12.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.12.value}"
+            },
+            "textDecoration": "Underline",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.12.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.12.value}"
+            },
+            "textDecoration": "Underline",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.12.value}"
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "linkxs": {
+        "regular": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.8.value}"
+            },
+            "textDecoration": "Underline",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.8.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.8.value}"
+            },
+            "textDecoration": "Underline",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.8.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "600"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.8.value}"
+            },
+            "textDecoration": "Underline",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.8.value}"
+            }
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "SF Pro"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": "{measure.font-sizing.font-size.fontsizes.8.value}"
+            },
+            "textDecoration": "Underline",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": "{measure.letter-spacing.letter-spacing.letterspacing.0.value}"
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": "{measure.line-height.line-height.lineheights.8.value}"
+            }
+          },
+          "type": "typography"
+        }
+      }
+    }
+  }
+}

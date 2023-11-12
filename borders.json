@@ -1,0 +1,25 @@
+{
+  "border": {
+    "border": {
+      "button": {
+        "focused": {
+          "value": {
+            "color": {
+              "type": "color",
+              "value": "{color.color.border.white.value}"
+            },
+            "width": {
+              "type": "measure",
+              "value": "{measure.border-width.border-width.borderwidth.1.value}"
+            },
+            "position": {
+              "type": "string",
+              "value": "Outside"
+            }
+          },
+          "type": "border"
+        }
+      }
+    }
+  }
+}
