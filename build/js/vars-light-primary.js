@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 12 Nov 2023 22:24:26 GMT
+ * Generated on Sun, 12 Nov 2023 22:52:04 GMT
  */
 
 module.exports = {
@@ -852,8 +852,8 @@ module.exports = {
   "TextDecorationUnderline": "underline",
   "TextDecorationLinethrough": "line-through",
   "TypographyDisplayLRegular": {"fontFamily":"SF Pro","fontWeight":"400","fontSize":"72/16rem","lineHeight":"80/16rem","letterSpacing":"-4%","paragraphSpacing":"0","paragraphIndent":"0","textDecoration":"none","textCase":"none"},
-  "TypographyDisplayLSemibold": {"fontFamily":"SF Pro","fontWeight":"600","fontSize":"72/16rem","lineHeight":"80/16rem","letterSpacing":"-4%","paragraphSpacing":"0","paragraphIndent":"0","textDecoration":"none","textCase":"none"},
   "TypographyDisplayLMedium": {"fontFamily":"SF Pro","fontWeight":"500","fontSize":"72/16rem","lineHeight":"80/16rem","letterSpacing":"-4%","paragraphSpacing":"0","paragraphIndent":"0","textDecoration":"none","textCase":"none"},
+  "TypographyDisplayLSemibold": {"fontFamily":"SF Pro","fontWeight":"600","fontSize":"72/16rem","lineHeight":"80/16rem","letterSpacing":"-4%","paragraphSpacing":"0","paragraphIndent":"0","textDecoration":"none","textCase":"none"},
   "TypographyDisplayLBold": {"fontFamily":"SF Pro","fontWeight":"700","fontSize":"72/16rem","lineHeight":"80/16rem","letterSpacing":"-4%","paragraphSpacing":"0","paragraphIndent":"0","textDecoration":"none","textCase":"none"},
   "TypographyDisplayMRegular": {"fontFamily":"SF Pro","fontWeight":"400","fontSize":"60/16rem","lineHeight":"72/16rem","letterSpacing":"-4%","paragraphSpacing":"0","paragraphIndent":"0","textDecoration":"none","textCase":"none"},
   "TypographyDisplayMMedium": {"fontFamily":"SF Pro","fontWeight":"500","fontSize":"60/16rem","lineHeight":"72/16rem","letterSpacing":"-4%","paragraphSpacing":"0","paragraphIndent":"0","textDecoration":"none","textCase":"none"},

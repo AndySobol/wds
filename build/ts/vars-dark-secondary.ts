@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 12 Nov 2023 22:24:27 GMT
+ * Generated on Sun, 12 Nov 2023 22:52:06 GMT
  */
 
 export const ColorWhite = "#ffffff";
@@ -841,8 +841,8 @@ export const TextDecorationNone = "none";
 export const TextDecorationUnderline = "underline";
 export const TextDecorationLinethrough = "line-through";
 export const TypographyDisplayLRegular = {"fontFamily":"SF Pro","fontWeight":"400","fontSize":"72/16rem","lineHeight":"80/16rem","letterSpacing":"-4%","paragraphSpacing":"0","paragraphIndent":"0","textDecoration":"none","textCase":"none"};
-export const TypographyDisplayLSemibold = {"fontFamily":"SF Pro","fontWeight":"600","fontSize":"72/16rem","lineHeight":"80/16rem","letterSpacing":"-4%","paragraphSpacing":"0","paragraphIndent":"0","textDecoration":"none","textCase":"none"};
 export const TypographyDisplayLMedium = {"fontFamily":"SF Pro","fontWeight":"500","fontSize":"72/16rem","lineHeight":"80/16rem","letterSpacing":"-4%","paragraphSpacing":"0","paragraphIndent":"0","textDecoration":"none","textCase":"none"};
+export const TypographyDisplayLSemibold = {"fontFamily":"SF Pro","fontWeight":"600","fontSize":"72/16rem","lineHeight":"80/16rem","letterSpacing":"-4%","paragraphSpacing":"0","paragraphIndent":"0","textDecoration":"none","textCase":"none"};
 export const TypographyDisplayLBold = {"fontFamily":"SF Pro","fontWeight":"700","fontSize":"72/16rem","lineHeight":"80/16rem","letterSpacing":"-4%","paragraphSpacing":"0","paragraphIndent":"0","textDecoration":"none","textCase":"none"};
 export const TypographyDisplayMRegular = {"fontFamily":"SF Pro","fontWeight":"400","fontSize":"60/16rem","lineHeight":"72/16rem","letterSpacing":"-4%","paragraphSpacing":"0","paragraphIndent":"0","textDecoration":"none","textCase":"none"};
 export const TypographyDisplayMMedium = {"fontFamily":"SF Pro","fontWeight":"500","fontSize":"60/16rem","lineHeight":"72/16rem","letterSpacing":"-4%","paragraphSpacing":"0","paragraphIndent":"0","textDecoration":"none","textCase":"none"};
