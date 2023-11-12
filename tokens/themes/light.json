@@ -158,15 +158,15 @@
     },
     "glyphs": {
       "prinary": {
-        "value": "$color.black",
+        "value": "{color.black}",
         "type": "color"
       },
       "secondary": {
-        "value": "$color.neutral.700",
+        "value": "{color.neutral.700}",
         "type": "color"
       },
       "tertiary": {
-        "value": "$color.neutral.500",
+        "value": "{color.neutral.500}",
         "type": "color"
       },
       "placeholder": {
@@ -174,7 +174,7 @@
         "type": "color"
       },
       "white": {
-        "value": "$color.white",
+        "value": "{color.white}",
         "type": "color"
       },
       "disabled": {
@@ -187,7 +187,7 @@
           "type": "color"
         },
         "link": {
-          "value": "$color.blue.600",
+          "value": "{color.blue.600}",
           "type": "color"
         },
         "success": {
