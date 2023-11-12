@@ -3,7 +3,7 @@
     "layout": {
       "background": {
         "default": {
-          "value": "{color.white}",
+          "value": "{color.neutral.050}",
           "type": "color"
         },
         "hover": {
@@ -41,8 +41,9 @@
       },
       "layer-100": {
         "default": {
-          "value": "{color.neutral.100}",
+          "value": "{color.white}",
           "type": "color",
+          "$extensions": {},
           "description": "Body background"
         },
         "hover": {
@@ -76,7 +77,7 @@
       },
       "layer-200": {
         "default": {
-          "value": "$",
+          "value": "{color.neutral.050}",
           "type": "color"
         },
         "hover": {
@@ -110,7 +111,7 @@
       },
       "layer-300": {
         "default": {
-          "value": "$",
+          "value": "{color.neutral.100}",
           "type": "color"
         },
         "hover": {
@@ -143,7 +144,7 @@
         }
       },
       "overlay": {
-        "value": "$",
+        "value": "{color.alpha.black.24}",
         "type": "color"
       },
       "transparent": {
@@ -151,13 +152,13 @@
         "type": "color"
       },
       "disabled": {
-        "value": "$",
+        "value": "{color.neutral.200}",
         "type": "color"
       }
     },
     "glyphs": {
       "prinary": {
-        "value": "$color.neutral.900",
+        "value": "$color.black",
         "type": "color"
       },
       "secondary": {
@@ -168,15 +169,7 @@
         "value": "$color.neutral.600",
         "type": "color"
       },
-      "quarterary": {
-        "value": "${color.neutral.500}",
-        "type": "color"
-      },
       "placeholder": {
-        "value": "$",
-        "type": "color"
-      },
-      "subtitle": {
         "value": "$",
         "type": "color"
       },
