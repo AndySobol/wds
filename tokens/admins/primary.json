@@ -167,10 +167,10 @@
         },
         "type": "typography"
       },
-      "semibold": {
+      "medium": {
         "value": {
           "fontFamily": "{fontFamilies.product}",
-          "fontWeight": "{fontWeights.600}",
+          "fontWeight": "{fontWeights.500}",
           "fontSize": "{fontSizes.72}",
           "lineHeight": "{lineHeights.72}",
           "letterSpacing": "{letterSpacing.neg64}",
@@ -181,10 +181,10 @@
         },
         "type": "typography"
       },
-      "medium": {
+      "semibold": {
         "value": {
           "fontFamily": "{fontFamilies.product}",
-          "fontWeight": "{fontWeights.500}",
+          "fontWeight": "{fontWeights.600}",
           "fontSize": "{fontSizes.72}",
           "lineHeight": "{lineHeights.72}",
           "letterSpacing": "{letterSpacing.neg64}",
