@@ -1917,6 +1917,16 @@
           "type": "spacing"
         }
       }
+    },
+    "header": {
+      "paddintHeight": {
+        "value": "{spacing.10}",
+        "type": "spacing"
+      },
+      "paddintWeight": {
+        "value": "{spacing.24}",
+        "type": "spacing"
+      }
     }
   },
   "sizing": {
