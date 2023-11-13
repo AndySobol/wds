@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 12 Nov 2023 22:52:05 GMT
+ * Generated on Mon, 13 Nov 2023 08:37:03 GMT
  */
 
 :root {
@@ -792,6 +792,8 @@
   --spacing-button-2xl-padding-width: 32/16rem;
   --spacing-button-2xl-padding-gap: 16/16rem;
   --spacing-button-2xl-icon-only: 22/16rem;
+  --spacing-header-paddint-height: 10/16rem;
+  --spacing-header-paddint-weight: 24/16rem;
   --baserem: 16;
   --font-sizes-8: 8/16rem;
   --font-sizes-10: 10/16rem;

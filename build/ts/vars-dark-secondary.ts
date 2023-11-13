@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 12 Nov 2023 22:52:06 GMT
+ * Generated on Mon, 13 Nov 2023 08:37:03 GMT
  */
 
 export const ColorWhite = "#ffffff";
@@ -781,6 +781,8 @@ export const SpacingButton2xlPaddingHeight = "20/16rem";
 export const SpacingButton2xlPaddingWidth = "32/16rem";
 export const SpacingButton2xlPaddingGap = "16/16rem";
 export const SpacingButton2xlIconOnly = "22/16rem";
+export const SpacingHeaderPaddintHeight = "10/16rem";
+export const SpacingHeaderPaddintWeight = "24/16rem";
 export const Baserem = "16";
 export const FontSizes8 = "8/16rem";
 export const FontSizes10 = "10/16rem";

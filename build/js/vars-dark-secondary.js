@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 12 Nov 2023 22:52:06 GMT
+ * Generated on Mon, 13 Nov 2023 08:37:03 GMT
  */
 
 module.exports = {
@@ -782,6 +782,8 @@ module.exports = {
   "SpacingButton2xlPaddingWidth": "32/16rem",
   "SpacingButton2xlPaddingGap": "16/16rem",
   "SpacingButton2xlIconOnly": "22/16rem",
+  "SpacingHeaderPaddintHeight": "10/16rem",
+  "SpacingHeaderPaddintWeight": "24/16rem",
   "Baserem": "16",
   "FontSizes8": "8/16rem",
   "FontSizes10": "10/16rem",
