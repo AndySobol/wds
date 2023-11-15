@@ -1968,6 +1968,96 @@
         },
         "type": "composition"
       }
+    },
+    "40": {
+      "icon": {
+        "value": {
+          "sizing": "{sizing.025}"
+        },
+        "type": "composition"
+      },
+      "label": {
+        "value": {
+          "paddingTop": "{spacing.010}",
+          "paddingRight": "{spacing.030}",
+          "paddingBottom": "{spacing.010}",
+          "paddingLeft": "{spacing.030}",
+          "itemSpacing": "{spacing.000}",
+          "typography": "{typography.label.small.medium}"
+        },
+        "type": "composition"
+      },
+      "button": {
+        "value": {
+          "paddingTop": "{spacing.030}",
+          "paddingRight": "{spacing.040}",
+          "paddingBottom": "{spacing.030}",
+          "paddingLeft": "{spacing.040}",
+          "itemSpacing": "{spacing.000}",
+          "borderRadius": "{borderRadius.030}"
+        },
+        "type": "composition"
+      }
+    },
+    "48": {
+      "icon": {
+        "value": {
+          "sizing": "{sizing.025}"
+        },
+        "type": "composition"
+      },
+      "label": {
+        "value": {
+          "paddingTop": "{spacing.010}",
+          "paddingRight": "{spacing.030}",
+          "paddingBottom": "{spacing.010}",
+          "paddingLeft": "{spacing.030}",
+          "itemSpacing": "{spacing.000}",
+          "typography": "{typography.label.small.medium}"
+        },
+        "type": "composition"
+      },
+      "button": {
+        "value": {
+          "paddingTop": "{spacing.040}",
+          "paddingRight": "{spacing.050}",
+          "paddingBottom": "{spacing.040}",
+          "paddingLeft": "{spacing.050}",
+          "itemSpacing": "{spacing.000}",
+          "borderRadius": "{borderRadius.040}"
+        },
+        "type": "composition"
+      }
+    },
+    "56": {
+      "icon": {
+        "value": {
+          "sizing": "{sizing.030}"
+        },
+        "type": "composition"
+      },
+      "label": {
+        "value": {
+          "paddingTop": "{spacing.000}",
+          "paddingRight": "{spacing.040}",
+          "paddingBottom": "{spacing.000}",
+          "paddingLeft": "{spacing.040}",
+          "itemSpacing": "{spacing.000}",
+          "typography": "{typography.label.small.medium}"
+        },
+        "type": "composition"
+      },
+      "button": {
+        "value": {
+          "paddingTop": "{spacing.050}",
+          "paddingRight": "{spacing.050}",
+          "paddingBottom": "{spacing.050}",
+          "paddingLeft": "{spacing.050}",
+          "itemSpacing": "{spacing.000}",
+          "borderRadius": "{borderRadius.040}"
+        },
+        "type": "composition"
+      }
     }
   },
   "borderRadius": {

@@ -288,23 +288,82 @@
           "value": "{color.accent.500}",
           "type": "color"
         },
-        "selected": {
-          "value": "{color.accent.400}",
-          "type": "color"
-        },
-        "selected-hover": {
-          "value": "{color.accent.500}",
-          "type": "color"
-        },
-        "alpha-16": {
-          "value": "{color.accent.500}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "{alpha.016}",
-                "space": "srgb"
+        "alpha": {
+          "light": {
+            "value": "{color.accent.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.008} ",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "medium": {
+            "value": "{color.accent.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.010} ",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "week": {
+            "value": "{color.accent.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.012} ",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "extra": {
+            "value": "{color.accent.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.016} ",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "ultra": {
+            "value": "{color.accent.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.024} ",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "deam": {
+            "value": "{color.accent.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.032} ",
+                  "space": "srgb"
+                }
               }
             }
           }
@@ -327,23 +386,82 @@
           "value": "{color.secondary.500}",
           "type": "color"
         },
-        "selected": {
-          "value": "{color.secondary.400}",
-          "type": "color"
-        },
-        "selected-hover": {
-          "value": "{color.secondary.500}",
-          "type": "color"
-        },
-        "alpha-16": {
-          "value": "{color.secondary.500}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "{alpha.016}",
-                "space": "srgb"
+        "alpha": {
+          "light": {
+            "value": "{color.secondary.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.008} ",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "medium": {
+            "value": "{color.secondary.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.010} ",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "week": {
+            "value": "{color.secondary.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.012} ",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "extra": {
+            "value": "{color.secondary.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.016} ",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "ultra": {
+            "value": "{color.secondary.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.024} ",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "deam": {
+            "value": "{color.secondary.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.032} ",
+                  "space": "srgb"
+                }
               }
             }
           }
@@ -366,23 +484,82 @@
           "value": "{color.red.500}",
           "type": "color"
         },
-        "selected": {
-          "value": "{color.red.400}",
-          "type": "color"
-        },
-        "selected-hover": {
-          "value": "{color.red.500}",
-          "type": "color"
-        },
-        "alpha-16": {
-          "value": "{color.red.500}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "{alpha.016}",
-                "space": "srgb"
+        "alpha": {
+          "light": {
+            "value": "{color.red.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.008} ",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "medium": {
+            "value": "{color.red.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.010} ",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "week": {
+            "value": "{color.red.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.012} ",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "extra": {
+            "value": "{color.red.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.016} ",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "ultra": {
+            "value": "{color.red.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.024} ",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "deam": {
+            "value": "{color.red.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.032} ",
+                  "space": "srgb"
+                }
               }
             }
           }
