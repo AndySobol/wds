@@ -1799,48 +1799,6 @@
       "type": "fontFamilies"
     }
   },
-  "borderRadius": {
-    "button": {
-      "sm": {
-        "value": "{borderRadius.6}",
-        "type": "borderRadius"
-      },
-      "md": {
-        "value": "{borderRadius.8}",
-        "type": "borderRadius"
-      },
-      "lg": {
-        "value": "{borderRadius.10}",
-        "type": "borderRadius"
-      },
-      "xl": {
-        "value": "{borderRadius.12}",
-        "type": "borderRadius"
-      },
-      "2xl": {
-        "value": "{borderRadius.16}",
-        "type": "borderRadius"
-      }
-    },
-    "link": {
-      "sm": {
-        "value": "{borderRadius.0}",
-        "type": "borderRadius"
-      },
-      "md": {
-        "value": "{borderRadius.0}",
-        "type": "borderRadius"
-      },
-      "lg": {
-        "value": "{borderRadius.0}",
-        "type": "borderRadius"
-      },
-      "xl": {
-        "value": "{borderRadius.0}",
-        "type": "borderRadius"
-      }
-    }
-  },
   "sizing": {
     "010": {
       "value": "{scale.8}rem",
@@ -1894,6 +1852,16 @@
     }
   },
   "spacing": {
+    "000": {
+      "value": "{scale.0}rem",
+      "type": "spacing",
+      "description": "0px При Baserem 16"
+    },
+    "005": {
+      "value": "{scale.1}rem",
+      "type": "spacing",
+      "description": "1px При Baserem 16"
+    },
     "010": {
       "value": "{scale.2}rem",
       "type": "spacing",
@@ -1938,6 +1906,38 @@
       "value": "{scale.40}rem",
       "type": "spacing",
       "description": "40px При Baserem 16"
+    }
+  },
+  "button": {
+    "24": {
+      "icon": {
+        "value": {
+          "sizing": "{sizing.020}"
+        },
+        "type": "composition"
+      },
+      "label": {
+        "value": {
+          "paddingTop": "{spacing.000}",
+          "paddingRight": "{spacing.020}",
+          "paddingBottom": "{spacing.000}",
+          "paddingLeft": "{spacing.020}",
+          "itemSpacing": "{spacing.000}",
+          "typography": "{typography.label.small.medium}"
+        },
+        "type": "composition"
+      },
+      "button": {
+        "value": {
+          "paddingTop": "{spacing.020}",
+          "paddingRight": "{spacing.030}",
+          "paddingBottom": "{spacing.020}",
+          "paddingLeft": "{spacing.030}",
+          "itemSpacing": "{spacing.000}",
+          "borderRadius": "{borderRadius.6}"
+        },
+        "type": "composition"
+      }
     }
   }
 }
