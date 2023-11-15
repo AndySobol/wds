@@ -1939,5 +1939,47 @@
         "type": "composition"
       }
     }
+  },
+  "borderRadius": {
+    "000": {
+      "value": "{scale.0}rem",
+      "type": "borderRadius"
+    },
+    "010": {
+      "value": "{scale.2}rem",
+      "type": "borderRadius"
+    },
+    "020": {
+      "value": "{scale.4}rem",
+      "type": "borderRadius"
+    },
+    "025": {
+      "value": "{scale.6}rem",
+      "type": "borderRadius"
+    },
+    "030": {
+      "value": "{scale.8}rem",
+      "type": "borderRadius"
+    },
+    "035": {
+      "value": "{scale.10}rem",
+      "type": "borderRadius"
+    },
+    "040": {
+      "value": "{scale.12}rem",
+      "type": "borderRadius"
+    },
+    "050": {
+      "value": "{scale.16}rem",
+      "type": "borderRadius"
+    },
+    "060": {
+      "value": "{scale.20}rem",
+      "type": "borderRadius"
+    },
+    "070": {
+      "value": "{scale.24}rem",
+      "type": "borderRadius"
+    }
   }
 }
