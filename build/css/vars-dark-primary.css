@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 15 Nov 2023 20:43:59 GMT
+ * Generated on Wed, 15 Nov 2023 21:00:58 GMT
  */
 
 :root {
@@ -642,15 +642,8 @@
   --border-radius-64: 64/16rem;
   --border-radius-128: 128/16rem;
   --border-radius-full: 9999rem;
-  --border-radius-button-sm: 6/16rem;
-  --border-radius-button-md: 8/16rem;
-  --border-radius-button-lg: 10/16rem;
-  --border-radius-button-xl: 12/16rem;
-  --border-radius-button-2xl: 16/16rem;
-  --border-radius-link-sm: 0rem;
-  --border-radius-link-md: 0rem;
-  --border-radius-link-lg: 0rem;
-  --border-radius-link-xl: 0rem;
+  --scale-0: 0/16;
+  --scale-1: 1/16;
   --scale-2: 2/16;
   --scale-4: 4/16;
   --scale-6: 6/16;
@@ -700,65 +693,6 @@
   --scale-1440: 1440/16;
   --scale-1600: 1600/16;
   --scale-1920: 1920/16;
-  --spacing-0: 0rem;
-  --spacing-2: 2/16rem;
-  --spacing-4: 4/16rem;
-  --spacing-6: 6/16rem;
-  --spacing-8: 8/16rem;
-  --spacing-10: 10/16rem;
-  --spacing-12: 12/16rem;
-  --spacing-14: 14/16rem;
-  --spacing-16: 16/16rem;
-  --spacing-18: 18/16rem;
-  --spacing-20: 20/16rem;
-  --spacing-22: 22/16rem;
-  --spacing-24: 24/16rem;
-  --spacing-26: 26/16rem;
-  --spacing-28: 28/16rem;
-  --spacing-32: 32/16rem;
-  --spacing-36: 36/16rem;
-  --spacing-40: 40/16rem;
-  --spacing-42: 42/16rem;
-  --spacing-44: 44/16rem;
-  --spacing-48: 48/16rem;
-  --spacing-54: 54/16rem;
-  --spacing-56: 56/16rem;
-  --spacing-60: 60/16rem;
-  --spacing-64: 64/16rem;
-  --spacing-68: 68/16rem;
-  --spacing-72: 72/16rem;
-  --spacing-76: 76/16rem;
-  --spacing-80: 80/16rem;
-  --spacing-84: 84/16rem;
-  --spacing-92: 92/16rem;
-  --spacing-96: 96/16rem;
-  --spacing-128: 128/16rem;
-  --spacing-160: 160/16rem;
-  --spacing-192: 192/16rem;
-  --spacing-224: 224/16rem;
-  --spacing-256: 256/16rem;
-  --spacing-320: 320/16rem;
-  --spacing-375: 375/16rem;
-  --spacing-384: 384/16rem;
-  --spacing-480: 480/16rem;
-  --spacing-560: 560/16rem;
-  --spacing-640: 640/16rem;
-  --spacing-720: 720/16rem;
-  --spacing-768: 768/16rem;
-  --spacing-1024: 1024/16rem;
-  --spacing-1280: 1280/16rem;
-  --spacing-1440: 1440/16rem;
-  --spacing-1600: 1600/16rem;
-  --spacing-1920: 1920/16rem;
-  --spacing-010: 2/16rem;
-  --spacing-020: 4/16rem;
-  --spacing-030: 8/16rem;
-  --spacing-040: 12/16rem;
-  --spacing-050: 16/16rem;
-  --spacing-060: 20/16rem;
-  --spacing-070: 24/16rem;
-  --spacing-080: 32/16rem;
-  --spacing-090: 40/16rem;
   --baserem: 16;
   --font-sizes-8: 8/16rem;
   --font-sizes-10: 10/16rem;
@@ -940,4 +874,18 @@
   --sizing-070: 40/16rem;
   --sizing-080: 48/16rem;
   --sizing-090: 56/16rem;
+  --spacing-000: 0/16rem;
+  --spacing-005: 1/16rem;
+  --spacing-010: 2/16rem;
+  --spacing-020: 4/16rem;
+  --spacing-030: 8/16rem;
+  --spacing-040: 12/16rem;
+  --spacing-050: 16/16rem;
+  --spacing-060: 20/16rem;
+  --spacing-070: 24/16rem;
+  --spacing-080: 32/16rem;
+  --spacing-090: 40/16rem;
+  --button-24-icon: [object Object];
+  --button-24-label: [object Object];
+  --button-24-button: [object Object];
 }
