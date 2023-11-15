@@ -1934,7 +1934,7 @@
           "paddingBottom": "{spacing.020}",
           "paddingLeft": "{spacing.030}",
           "itemSpacing": "{spacing.000}",
-          "borderRadius": "{borderRadius.6}"
+          "borderRadius": "{borderRadius.025}"
         },
         "type": "composition"
       }
@@ -1981,5 +1981,9 @@
       "value": "{scale.24}rem",
       "type": "borderRadius"
     }
+  },
+  "baserem": {
+    "value": "16",
+    "type": "fontSizes"
   }
 }
