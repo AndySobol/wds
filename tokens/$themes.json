@@ -297,7 +297,17 @@
       "spacing.060": "6220d09160f816237db0b38c518151c451e6ece9",
       "spacing.070": "40f823345234b7fd9f5578ff0b0c292bd2922257",
       "spacing.080": "595f6a06274f5f8dc390d0d8d7a9cc5f60b23564",
-      "spacing.090": "b93994436906b5682a81bd9d2ed96b0f2418e91b"
+      "spacing.090": "b93994436906b5682a81bd9d2ed96b0f2418e91b",
+      "borderRadius.000": "d0cde9e33cbcce0c99ba9607743dca4cb85a8ee6",
+      "borderRadius.010": "b9a4c334b61179fbcfc5d0a59ff32019ee4bc408",
+      "borderRadius.020": "23b88783f32797c3ca1e969abf7c4f8e3834b192",
+      "borderRadius.025": "2c5ffc9e7456302e0ae1070919d21e4c13ee1802",
+      "borderRadius.030": "3c46e27d616fe9c58f4d7ad7e48fa2867e2fc137",
+      "borderRadius.035": "a1be46da28d5ce2512aa139abc80b830c6b1e046",
+      "borderRadius.040": "5503dc61e291df3398ef2512d71d2c8d08e5c8ac",
+      "borderRadius.050": "7faa4a30a8f50b2e49c18d080b37d9e459df1f3e",
+      "borderRadius.060": "7e9b664f67f7dc3c29541635ca27dce59e64a338",
+      "borderRadius.070": "b26ff03780b356576a3a32de6b6746fa7b02e6d8"
     },
     "group": "themes"
   },
@@ -681,7 +691,17 @@
       "spacing.060": "328034737ec525b2eb9833997d916cc3abe6cbfa",
       "spacing.070": "983db444b0668f937f81c3a04a155ad4a2f5e3c8",
       "spacing.080": "66cc2f2a8da04a6d0d50aac99818a6223555531b",
-      "spacing.090": "82b3bc08b84ebeb95e8d5ed3edb7dfac380450c2"
+      "spacing.090": "82b3bc08b84ebeb95e8d5ed3edb7dfac380450c2",
+      "borderRadius.000": "a971cd98bb4ea8804417072d5b47bbdff84a805f",
+      "borderRadius.010": "da2f28df30ff84fbf9a4ded8477008335bc3af4f",
+      "borderRadius.020": "437d112b061711c4ef4f35230b85d6f6864e1b52",
+      "borderRadius.025": "1725c138496005880e161bfda920bed8fa2412ef",
+      "borderRadius.030": "473368bc1300356245903ef07fc7ff66ac6a451a",
+      "borderRadius.035": "be4f53d11be14e6bbd4d1ca3bd639bebd68a9b95",
+      "borderRadius.040": "6e92ae8d7837317f560e989098e7fce827fdbd61",
+      "borderRadius.050": "316f24c53e050fc3108e8c5d0a73f9bb88434a09",
+      "borderRadius.060": "571b339eaf3451378c40bfef8c52722ce6b68b6b",
+      "borderRadius.070": "bb187f666bd31db4e160c0246f0bc1bdaa1bf90a"
     },
     "group": "admins"
   },

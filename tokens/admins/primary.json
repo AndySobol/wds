@@ -1938,6 +1938,36 @@
         },
         "type": "composition"
       }
+    },
+    "32": {
+      "icon": {
+        "value": {
+          "sizing": "{sizing.020}"
+        },
+        "type": "composition"
+      },
+      "label": {
+        "value": {
+          "paddingTop": "{spacing.000}",
+          "paddingRight": "{spacing.020}",
+          "paddingBottom": "{spacing.000}",
+          "paddingLeft": "{spacing.020}",
+          "itemSpacing": "{spacing.000}",
+          "typography": "{typography.label.small.medium}"
+        },
+        "type": "composition"
+      },
+      "button": {
+        "value": {
+          "paddingTop": "{spacing.030}",
+          "paddingRight": "{spacing.040}",
+          "paddingBottom": "{spacing.030}",
+          "paddingLeft": "{spacing.040}",
+          "itemSpacing": "{spacing.000}",
+          "borderRadius": "{borderRadius.030}"
+        },
+        "type": "composition"
+      }
     }
   },
   "borderRadius": {
