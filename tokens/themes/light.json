@@ -982,17 +982,5 @@
         "type": "boxShadow"
       }
     }
-  },
-  "border": {
-    "button": {
-      "focused": {
-        "value": {
-          "color": "{color.border.white}",
-          "width": "{borderWidth.1}",
-          "style": "{borderStyle.solid}"
-        },
-        "type": "border"
-      }
-    }
   }
 }
