@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 15 Nov 2023 21:16:22 GMT
+ * Generated on Wed, 15 Nov 2023 22:09:20 GMT
  */
 
 export const ColorWhite = "#ffffff";
@@ -888,6 +888,9 @@ export const Spacing090 = "40/16rem";
 export const Button24Icon = {"sizing":"12/16rem"};
 export const Button24Label = {"paddingTop":"0/16rem","paddingRight":"4/16rem","paddingBottom":"0/16rem","paddingLeft":"4/16rem","itemSpacing":"0/16rem","typography":{"fontFamily":"SF Pro","fontWeight":"500","fontSize":"12/16rem","lineHeight":"16/16rem","letterSpacing":"0","paragraphSpacing":"0","paragraphIndent":"0","textDecoration":"none","textCase":"none"}};
 export const Button24Button = {"paddingTop":"4/16rem","paddingRight":"8/16rem","paddingBottom":"4/16rem","paddingLeft":"8/16rem","itemSpacing":"0/16rem","borderRadius":"6/16rem"};
+export const Button32Icon = {"sizing":"12/16rem"};
+export const Button32Label = {"paddingTop":"0/16rem","paddingRight":"4/16rem","paddingBottom":"0/16rem","paddingLeft":"4/16rem","itemSpacing":"0/16rem","typography":{"fontFamily":"SF Pro","fontWeight":"500","fontSize":"12/16rem","lineHeight":"16/16rem","letterSpacing":"0","paragraphSpacing":"0","paragraphIndent":"0","textDecoration":"none","textCase":"none"}};
+export const Button32Button = {"paddingTop":"8/16rem","paddingRight":"12/16rem","paddingBottom":"8/16rem","paddingLeft":"12/16rem","itemSpacing":"0/16rem","borderRadius":"8/16rem"};
 export const BorderRadius000 = "0/16rem";
 export const BorderRadius010 = "2/16rem";
 export const BorderRadius020 = "4/16rem";

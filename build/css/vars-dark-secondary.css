@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 15 Nov 2023 21:16:22 GMT
+ * Generated on Wed, 15 Nov 2023 22:09:20 GMT
  */
 
 :root {
@@ -867,6 +867,9 @@
   --button-24-icon: [object Object];
   --button-24-label: [object Object];
   --button-24-button: [object Object];
+  --button-32-icon: [object Object];
+  --button-32-label: [object Object];
+  --button-32-button: [object Object];
   --border-radius-000: 0/16rem;
   --border-radius-010: 2/16rem;
   --border-radius-020: 4/16rem;
