@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 15 Nov 2023 21:00:58 GMT
+ * Generated on Wed, 15 Nov 2023 21:16:22 GMT
  */
 
 :root {
@@ -621,27 +621,6 @@
   --background-blur-80: 80;
   --border-style-solid: solid;
   --border-style-dashed: dashed;
-  --border-width-0: 0;
-  --border-width-1: 1;
-  --border-width-2: 2;
-  --border-width-4: 4;
-  --border-width-02: 0.2;
-  --border-width-05: 0.5;
-  --border-radius-0: 0rem;
-  --border-radius-2: 2/16rem;
-  --border-radius-4: 4/16rem;
-  --border-radius-6: 6/16rem;
-  --border-radius-8: 8/16rem;
-  --border-radius-10: 10/16rem;
-  --border-radius-12: 12/16rem;
-  --border-radius-16: 16/16rem;
-  --border-radius-20: 20/16rem;
-  --border-radius-24: 24/16rem;
-  --border-radius-32: 32/16rem;
-  --border-radius-48: 48/16rem;
-  --border-radius-64: 64/16rem;
-  --border-radius-128: 128/16rem;
-  --border-radius-full: 9999rem;
   --scale-0: 0/16;
   --scale-1: 1/16;
   --scale-2: 2/16;
@@ -888,4 +867,14 @@
   --button-24-icon: [object Object];
   --button-24-label: [object Object];
   --button-24-button: [object Object];
+  --border-radius-000: 0/16rem;
+  --border-radius-010: 2/16rem;
+  --border-radius-020: 4/16rem;
+  --border-radius-025: 6/16rem;
+  --border-radius-030: 8/16rem;
+  --border-radius-035: 10/16rem;
+  --border-radius-040: 12/16rem;
+  --border-radius-050: 16/16rem;
+  --border-radius-060: 20/16rem;
+  --border-radius-070: 24/16rem;
 }

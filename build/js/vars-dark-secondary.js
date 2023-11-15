@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 15 Nov 2023 21:00:58 GMT
+ * Generated on Wed, 15 Nov 2023 21:16:22 GMT
  */
 
 module.exports = {
@@ -621,27 +621,6 @@ module.exports = {
   "BackgroundBlur80": "80",
   "BorderStyleSolid": "solid",
   "BorderStyleDashed": "dashed",
-  "BorderWidth0": "0",
-  "BorderWidth1": "1",
-  "BorderWidth2": "2",
-  "BorderWidth4": "4",
-  "BorderWidth02": "0.2",
-  "BorderWidth05": "0.5",
-  "BorderRadius0": "0rem",
-  "BorderRadius2": "2/16rem",
-  "BorderRadius4": "4/16rem",
-  "BorderRadius6": "6/16rem",
-  "BorderRadius8": "8/16rem",
-  "BorderRadius10": "10/16rem",
-  "BorderRadius12": "12/16rem",
-  "BorderRadius16": "16/16rem",
-  "BorderRadius20": "20/16rem",
-  "BorderRadius24": "24/16rem",
-  "BorderRadius32": "32/16rem",
-  "BorderRadius48": "48/16rem",
-  "BorderRadius64": "64/16rem",
-  "BorderRadius128": "128/16rem",
-  "BorderRadiusFull": "9999rem",
   "Scale0": "0/16",
   "Scale1": "1/16",
   "Scale2": "2/16",
@@ -887,5 +866,15 @@ module.exports = {
   "Spacing090": "40/16rem",
   "Button24Icon": {"sizing":"12/16rem"},
   "Button24Label": {"paddingTop":"0/16rem","paddingRight":"4/16rem","paddingBottom":"0/16rem","paddingLeft":"4/16rem","itemSpacing":"0/16rem","typography":{"fontFamily":"SF Pro","fontWeight":"500","fontSize":"12/16rem","lineHeight":"16/16rem","letterSpacing":"0","paragraphSpacing":"0","paragraphIndent":"0","textDecoration":"none","textCase":"none"}},
-  "Button24Button": {"paddingTop":"4/16rem","paddingRight":"8/16rem","paddingBottom":"4/16rem","paddingLeft":"8/16rem","itemSpacing":"0/16rem","borderRadius":"6/16rem"}
+  "Button24Button": {"paddingTop":"4/16rem","paddingRight":"8/16rem","paddingBottom":"4/16rem","paddingLeft":"8/16rem","itemSpacing":"0/16rem","borderRadius":"6/16rem"},
+  "BorderRadius000": "0/16rem",
+  "BorderRadius010": "2/16rem",
+  "BorderRadius020": "4/16rem",
+  "BorderRadius025": "6/16rem",
+  "BorderRadius030": "8/16rem",
+  "BorderRadius035": "10/16rem",
+  "BorderRadius040": "12/16rem",
+  "BorderRadius050": "16/16rem",
+  "BorderRadius060": "20/16rem",
+  "BorderRadius070": "24/16rem"
 };

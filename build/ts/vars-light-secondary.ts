@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 15 Nov 2023 21:00:58 GMT
+ * Generated on Wed, 15 Nov 2023 21:16:22 GMT
  */
 
 export const ColorWhite = "#ffffff";
@@ -642,27 +642,6 @@ export const BackgroundBlur48 = "48";
 export const BackgroundBlur80 = "80";
 export const BorderStyleSolid = "solid";
 export const BorderStyleDashed = "dashed";
-export const BorderWidth0 = "0";
-export const BorderWidth1 = "1";
-export const BorderWidth2 = "2";
-export const BorderWidth4 = "4";
-export const BorderWidth02 = "0.2";
-export const BorderWidth05 = "0.5";
-export const BorderRadius0 = "0rem";
-export const BorderRadius2 = "2/16rem";
-export const BorderRadius4 = "4/16rem";
-export const BorderRadius6 = "6/16rem";
-export const BorderRadius8 = "8/16rem";
-export const BorderRadius10 = "10/16rem";
-export const BorderRadius12 = "12/16rem";
-export const BorderRadius16 = "16/16rem";
-export const BorderRadius20 = "20/16rem";
-export const BorderRadius24 = "24/16rem";
-export const BorderRadius32 = "32/16rem";
-export const BorderRadius48 = "48/16rem";
-export const BorderRadius64 = "64/16rem";
-export const BorderRadius128 = "128/16rem";
-export const BorderRadiusFull = "9999rem";
 export const Scale0 = "0/16";
 export const Scale1 = "1/16";
 export const Scale2 = "2/16";
@@ -909,6 +888,16 @@ export const Spacing090 = "40/16rem";
 export const Button24Icon = {"sizing":"12/16rem"};
 export const Button24Label = {"paddingTop":"0/16rem","paddingRight":"4/16rem","paddingBottom":"0/16rem","paddingLeft":"4/16rem","itemSpacing":"0/16rem","typography":{"fontFamily":"SF Pro","fontWeight":"500","fontSize":"12/16rem","lineHeight":"16/16rem","letterSpacing":"0","paragraphSpacing":"0","paragraphIndent":"0","textDecoration":"none","textCase":"none"}};
 export const Button24Button = {"paddingTop":"4/16rem","paddingRight":"8/16rem","paddingBottom":"4/16rem","paddingLeft":"8/16rem","itemSpacing":"0/16rem","borderRadius":"6/16rem"};
+export const BorderRadius000 = "0/16rem";
+export const BorderRadius010 = "2/16rem";
+export const BorderRadius020 = "4/16rem";
+export const BorderRadius025 = "6/16rem";
+export const BorderRadius030 = "8/16rem";
+export const BorderRadius035 = "10/16rem";
+export const BorderRadius040 = "12/16rem";
+export const BorderRadius050 = "16/16rem";
+export const BorderRadius060 = "20/16rem";
+export const BorderRadius070 = "24/16rem";
 export const BoxShadowSpreadButtonPrimaryHover = {"x":"0","y":"0","blur":"0","spread":"1","color":"#f79009","type":"dropShadow"};
 export const BoxShadowSpreadButtonPrimaryPressed = {"x":"0","y":"0","blur":"0","spread":"2","color":"#70707b","type":"dropShadow"};
 export const BoxShadowSpreadButtonPrimaryFocused = {"x":"0","y":"0","blur":"0","spread":"2","color":"#f79009","type":"dropShadow"};
@@ -933,4 +922,3 @@ export const BoxShadowElevationFocus500 = [{"x":"0","y":"8","blur":"8","spread":
 export const BoxShadowElevationFocus600 = [{"x":"0","y":"24","blur":"48","spread":"-12","color":"#000000","type":"dropShadow"},{"x":"0","y":"0","blur":"0","spread":"2","color":"#000000","type":"dropShadow"}];
 export const BoxShadowElevationFocus700 = [{"x":"0","y":"32","blur":"64","spread":"-12","color":"#000000","type":"dropShadow"},{"x":"0","y":"0","blur":"0","spread":"2","color":"#000000","type":"dropShadow"}];
 export const BoxShadowFocusPrimary = {"x":"0","y":"0","blur":"0","spread":"2","color":"#000000","type":"dropShadow"};
-export const BorderButtonFocused = {"color":"#ffffff","width":"1","style":"solid"};
