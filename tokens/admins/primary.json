@@ -1791,7 +1791,7 @@
           "type": "typography"
         }
       },
-      "xxsmall": {
+      "2xsmall": {
         "regular": {
           "value": {
             "fontFamily": "{fontFamilies.product}",
