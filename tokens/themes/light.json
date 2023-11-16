@@ -292,8 +292,21 @@
           "value": "{color.accent.500}",
           "type": "color"
         },
-        "alpha": {
-          "light": {
+        "ghost": {
+          "010": {
+            "value": "{color.accent.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.004} ",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "020": {
             "value": "{color.accent.500}",
             "type": "color",
             "$extensions": {
@@ -306,7 +319,7 @@
               }
             }
           },
-          "medium": {
+          "030": {
             "value": "{color.accent.500}",
             "type": "color",
             "$extensions": {
@@ -319,7 +332,7 @@
               }
             }
           },
-          "week": {
+          "040": {
             "value": "{color.accent.500}",
             "type": "color",
             "$extensions": {
@@ -332,7 +345,7 @@
               }
             }
           },
-          "extra": {
+          "050": {
             "value": "{color.accent.500}",
             "type": "color",
             "$extensions": {
@@ -345,7 +358,7 @@
               }
             }
           },
-          "ultra": {
+          "060": {
             "value": "{color.accent.500}",
             "type": "color",
             "$extensions": {
@@ -358,7 +371,7 @@
               }
             }
           },
-          "deam": {
+          "070": {
             "value": "{color.accent.500}",
             "type": "color",
             "$extensions": {
@@ -390,8 +403,21 @@
           "value": "{color.secondary.500}",
           "type": "color"
         },
-        "alpha": {
-          "light": {
+        "ghost": {
+          "010": {
+            "value": "{color.secondary.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.004} ",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "020": {
             "value": "{color.secondary.500}",
             "type": "color",
             "$extensions": {
@@ -404,7 +430,7 @@
               }
             }
           },
-          "medium": {
+          "030": {
             "value": "{color.secondary.500}",
             "type": "color",
             "$extensions": {
@@ -417,7 +443,7 @@
               }
             }
           },
-          "week": {
+          "040": {
             "value": "{color.secondary.500}",
             "type": "color",
             "$extensions": {
@@ -430,7 +456,7 @@
               }
             }
           },
-          "extra": {
+          "050": {
             "value": "{color.secondary.500}",
             "type": "color",
             "$extensions": {
@@ -443,7 +469,7 @@
               }
             }
           },
-          "ultra": {
+          "060": {
             "value": "{color.secondary.500}",
             "type": "color",
             "$extensions": {
@@ -456,7 +482,7 @@
               }
             }
           },
-          "deam": {
+          "070": {
             "value": "{color.secondary.500}",
             "type": "color",
             "$extensions": {
@@ -488,8 +514,21 @@
           "value": "{color.red.500}",
           "type": "color"
         },
-        "alpha": {
-          "light": {
+        "ghost": {
+          "010": {
+            "value": "{color.red.500}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.004} ",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "020": {
             "value": "{color.red.500}",
             "type": "color",
             "$extensions": {
@@ -502,7 +541,7 @@
               }
             }
           },
-          "medium": {
+          "030": {
             "value": "{color.red.500}",
             "type": "color",
             "$extensions": {
@@ -515,7 +554,7 @@
               }
             }
           },
-          "week": {
+          "040": {
             "value": "{color.red.500}",
             "type": "color",
             "$extensions": {
@@ -528,7 +567,7 @@
               }
             }
           },
-          "extra": {
+          "050": {
             "value": "{color.red.500}",
             "type": "color",
             "$extensions": {
@@ -541,7 +580,7 @@
               }
             }
           },
-          "ultra": {
+          "060": {
             "value": "{color.red.500}",
             "type": "color",
             "$extensions": {
@@ -554,7 +593,7 @@
               }
             }
           },
-          "deam": {
+          "070": {
             "value": "{color.red.500}",
             "type": "color",
             "$extensions": {
@@ -586,8 +625,21 @@
           "value": "{color.neutral.900}",
           "type": "color"
         },
-        "alpha": {
-          "light": {
+        "ghost": {
+          "010": {
+            "value": "{color.neutral.900}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.004} ",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "020": {
             "value": "{color.neutral.900}",
             "type": "color",
             "$extensions": {
@@ -600,7 +652,7 @@
               }
             }
           },
-          "medium": {
+          "030": {
             "value": "{color.neutral.900}",
             "type": "color",
             "$extensions": {
@@ -613,7 +665,7 @@
               }
             }
           },
-          "week": {
+          "040": {
             "value": "{color.neutral.900}",
             "type": "color",
             "$extensions": {
@@ -626,7 +678,7 @@
               }
             }
           },
-          "extra": {
+          "050": {
             "value": "{color.neutral.900}",
             "type": "color",
             "$extensions": {
@@ -639,7 +691,7 @@
               }
             }
           },
-          "ultra": {
+          "060": {
             "value": "{color.neutral.900}",
             "type": "color",
             "$extensions": {
@@ -652,7 +704,7 @@
               }
             }
           },
-          "deam": {
+          "070": {
             "value": "{color.neutral.900}",
             "type": "color",
             "$extensions": {
@@ -684,8 +736,21 @@
           "value": "{color.neutral.025}",
           "type": "color"
         },
-        "alpha": {
-          "light": {
+        "ghost": {
+          "010": {
+            "value": "{color.neutral.025}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{alpha.004} ",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "020": {
             "value": "{color.neutral.025}",
             "type": "color",
             "$extensions": {
@@ -698,7 +763,7 @@
               }
             }
           },
-          "medium": {
+          "030": {
             "value": "{color.neutral.025}",
             "type": "color",
             "$extensions": {
@@ -711,7 +776,7 @@
               }
             }
           },
-          "week": {
+          "040": {
             "value": "{color.neutral.025}",
             "type": "color",
             "$extensions": {
@@ -724,7 +789,7 @@
               }
             }
           },
-          "extra": {
+          "050": {
             "value": "{color.neutral.025}",
             "type": "color",
             "$extensions": {
@@ -737,7 +802,7 @@
               }
             }
           },
-          "ultra": {
+          "060": {
             "value": "{color.neutral.025}",
             "type": "color",
             "$extensions": {
@@ -750,7 +815,7 @@
               }
             }
           },
-          "deam": {
+          "070": {
             "value": "{color.neutral.025}",
             "type": "color",
             "$extensions": {
