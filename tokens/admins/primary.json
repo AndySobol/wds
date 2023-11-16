@@ -1877,6 +1877,11 @@
       "type": "spacing",
       "description": "8px При Baserem 16"
     },
+    "035": {
+      "value": "{scale.10} rem",
+      "type": "spacing",
+      "description": "8px При Baserem 16"
+    },
     "040": {
       "value": "{scale.12}rem",
       "type": "spacing",
@@ -1909,154 +1914,253 @@
     }
   },
   "button": {
-    "24": {
-      "icon": {
-        "value": {
-          "sizing": "{sizing.020}"
+    "Item": {
+      "XS": {
+        "icon": {
+          "value": {
+            "sizing": "{sizing.020}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
+        "label": {
+          "value": {
+            "paddingTop": "{spacing.000}",
+            "paddingRight": "{spacing.020}",
+            "paddingBottom": "{spacing.000}",
+            "paddingLeft": "{spacing.020}",
+            "itemSpacing": "{spacing.000}",
+            "typography": "{typography.label.small.medium}"
+          },
+          "type": "composition"
+        },
+        "button": {
+          "value": {
+            "paddingTop": "{spacing.020}",
+            "paddingRight": "{spacing.030}",
+            "paddingBottom": "{spacing.020}",
+            "paddingLeft": "{spacing.030}",
+            "itemSpacing": "{spacing.000}",
+            "borderRadius": "{borderRadius.025}"
+          },
+          "type": "composition"
+        }
       },
-      "label": {
-        "value": {
-          "paddingTop": "{spacing.000}",
-          "paddingRight": "{spacing.020}",
-          "paddingBottom": "{spacing.000}",
-          "paddingLeft": "{spacing.020}",
-          "itemSpacing": "{spacing.000}",
-          "typography": "{typography.label.small.medium}"
+      "SM": {
+        "icon": {
+          "value": {
+            "sizing": "{sizing.020}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
+        "label": {
+          "value": {
+            "paddingTop": "{spacing.000}",
+            "paddingRight": "{spacing.020}",
+            "paddingBottom": "{spacing.000}",
+            "paddingLeft": "{spacing.020}",
+            "itemSpacing": "{spacing.000}",
+            "typography": "{typography.label.small.medium}"
+          },
+          "type": "composition"
+        },
+        "button": {
+          "value": {
+            "paddingTop": "{spacing.030}",
+            "paddingRight": "{spacing.040}",
+            "paddingBottom": "{spacing.030}",
+            "paddingLeft": "{spacing.040}",
+            "itemSpacing": "{spacing.000}",
+            "borderRadius": "{borderRadius.030}"
+          },
+          "type": "composition"
+        }
       },
-      "button": {
-        "value": {
-          "paddingTop": "{spacing.020}",
-          "paddingRight": "{spacing.030}",
-          "paddingBottom": "{spacing.020}",
-          "paddingLeft": "{spacing.030}",
-          "itemSpacing": "{spacing.000}",
-          "borderRadius": "{borderRadius.025}"
+      "MD": {
+        "icon": {
+          "value": {
+            "sizing": "{sizing.025}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
+        "label": {
+          "value": {
+            "paddingTop": "{spacing.010}",
+            "paddingRight": "{spacing.030}",
+            "paddingBottom": "{spacing.010}",
+            "paddingLeft": "{spacing.030}",
+            "itemSpacing": "{spacing.000}",
+            "typography": "{typography.label.small.medium}"
+          },
+          "type": "composition"
+        },
+        "button": {
+          "value": {
+            "paddingTop": "{spacing.030}",
+            "paddingRight": "{spacing.040}",
+            "paddingBottom": "{spacing.030}",
+            "paddingLeft": "{spacing.040}",
+            "itemSpacing": "{spacing.000}",
+            "borderRadius": "{borderRadius.030}"
+          },
+          "type": "composition"
+        }
+      },
+      "LG": {
+        "icon": {
+          "value": {
+            "sizing": "{sizing.025}"
+          },
+          "type": "composition"
+        },
+        "label": {
+          "value": {
+            "paddingTop": "{spacing.010}",
+            "paddingRight": "{spacing.030}",
+            "paddingBottom": "{spacing.010}",
+            "paddingLeft": "{spacing.030}",
+            "itemSpacing": "{spacing.000}",
+            "typography": "{typography.label.small.medium}"
+          },
+          "type": "composition"
+        },
+        "button": {
+          "value": {
+            "paddingTop": "{spacing.040}",
+            "paddingRight": "{spacing.050}",
+            "paddingBottom": "{spacing.040}",
+            "paddingLeft": "{spacing.050}",
+            "itemSpacing": "{spacing.000}",
+            "borderRadius": "{borderRadius.040}"
+          },
+          "type": "composition"
+        }
+      },
+      "XL": {
+        "icon": {
+          "value": {
+            "sizing": "{sizing.030}"
+          },
+          "type": "composition"
+        },
+        "label": {
+          "value": {
+            "paddingTop": "{spacing.000}",
+            "paddingRight": "{spacing.040}",
+            "paddingBottom": "{spacing.000}",
+            "paddingLeft": "{spacing.040}",
+            "itemSpacing": "{spacing.000}",
+            "typography": "{typography.label.small.medium}"
+          },
+          "type": "composition"
+        },
+        "button": {
+          "value": {
+            "paddingTop": "{spacing.050}",
+            "paddingRight": "{spacing.050}",
+            "paddingBottom": "{spacing.050}",
+            "paddingLeft": "{spacing.050}",
+            "itemSpacing": "{spacing.000}",
+            "borderRadius": "{borderRadius.040}"
+          },
+          "type": "composition"
+        }
       }
     },
-    "32": {
-      "icon": {
-        "value": {
-          "sizing": "{sizing.020}"
+    "Icon": {
+      "XS": {
+        "icon": {
+          "value": {
+            "sizing": "{sizing.030}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
+        "button": {
+          "value": {
+            "paddingTop": "{spacing.020}",
+            "paddingRight": "{spacing.020}",
+            "paddingBottom": "{spacing.020}",
+            "paddingLeft": "{spacing.020}",
+            "itemSpacing": "{spacing.000}",
+            "borderRadius": "{borderRadius.025}"
+          },
+          "type": "composition"
+        }
       },
-      "label": {
-        "value": {
-          "paddingTop": "{spacing.000}",
-          "paddingRight": "{spacing.020}",
-          "paddingBottom": "{spacing.000}",
-          "paddingLeft": "{spacing.020}",
-          "itemSpacing": "{spacing.000}",
-          "typography": "{typography.label.small.medium}"
+      "SM": {
+        "icon": {
+          "value": {
+            "sizing": "{sizing.030}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
+        "button": {
+          "value": {
+            "paddingTop": "{spacing.030}",
+            "paddingRight": "{spacing.030}",
+            "paddingBottom": "{spacing.030}",
+            "paddingLeft": "{spacing.030}",
+            "itemSpacing": "{spacing.000}",
+            "borderRadius": "{borderRadius.030}"
+          },
+          "type": "composition"
+        }
       },
-      "button": {
-        "value": {
-          "paddingTop": "{spacing.030}",
-          "paddingRight": "{spacing.040}",
-          "paddingBottom": "{spacing.030}",
-          "paddingLeft": "{spacing.040}",
-          "itemSpacing": "{spacing.000}",
-          "borderRadius": "{borderRadius.030}"
+      "MD": {
+        "icon": {
+          "value": {
+            "sizing": "{sizing.030}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
-      }
-    },
-    "40": {
-      "icon": {
-        "value": {
-          "sizing": "{sizing.025}"
-        },
-        "type": "composition"
+        "button": {
+          "value": {
+            "paddingTop": "{spacing.040}",
+            "paddingRight": "{spacing.040}",
+            "paddingBottom": "{spacing.040}",
+            "paddingLeft": "{spacing.040}",
+            "itemSpacing": "{spacing.000}",
+            "borderRadius": "{borderRadius.035}"
+          },
+          "type": "composition"
+        }
       },
-      "label": {
-        "value": {
-          "paddingTop": "{spacing.010}",
-          "paddingRight": "{spacing.030}",
-          "paddingBottom": "{spacing.010}",
-          "paddingLeft": "{spacing.030}",
-          "itemSpacing": "{spacing.000}",
-          "typography": "{typography.label.small.medium}"
+      "LG": {
+        "icon": {
+          "value": {
+            "sizing": "{sizing.040}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
+        "button": {
+          "value": {
+            "paddingTop": "{spacing.035}",
+            "paddingRight": "{spacing.035}",
+            "paddingBottom": "{spacing.035}",
+            "paddingLeft": "{spacing.035}",
+            "itemSpacing": "{spacing.000}",
+            "borderRadius": "{borderRadius.035}"
+          },
+          "type": "composition"
+        }
       },
-      "button": {
-        "value": {
-          "paddingTop": "{spacing.030}",
-          "paddingRight": "{spacing.040}",
-          "paddingBottom": "{spacing.030}",
-          "paddingLeft": "{spacing.040}",
-          "itemSpacing": "{spacing.000}",
-          "borderRadius": "{borderRadius.030}"
+      "XL": {
+        "icon": {
+          "value": {
+            "sizing": "{sizing.050}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
-      }
-    },
-    "48": {
-      "icon": {
-        "value": {
-          "sizing": "{sizing.025}"
-        },
-        "type": "composition"
-      },
-      "label": {
-        "value": {
-          "paddingTop": "{spacing.010}",
-          "paddingRight": "{spacing.030}",
-          "paddingBottom": "{spacing.010}",
-          "paddingLeft": "{spacing.030}",
-          "itemSpacing": "{spacing.000}",
-          "typography": "{typography.label.small.medium}"
-        },
-        "type": "composition"
-      },
-      "button": {
-        "value": {
-          "paddingTop": "{spacing.040}",
-          "paddingRight": "{spacing.050}",
-          "paddingBottom": "{spacing.040}",
-          "paddingLeft": "{spacing.050}",
-          "itemSpacing": "{spacing.000}",
-          "borderRadius": "{borderRadius.040}"
-        },
-        "type": "composition"
-      }
-    },
-    "56": {
-      "icon": {
-        "value": {
-          "sizing": "{sizing.030}"
-        },
-        "type": "composition"
-      },
-      "label": {
-        "value": {
-          "paddingTop": "{spacing.000}",
-          "paddingRight": "{spacing.040}",
-          "paddingBottom": "{spacing.000}",
-          "paddingLeft": "{spacing.040}",
-          "itemSpacing": "{spacing.000}",
-          "typography": "{typography.label.small.medium}"
-        },
-        "type": "composition"
-      },
-      "button": {
-        "value": {
-          "paddingTop": "{spacing.050}",
-          "paddingRight": "{spacing.050}",
-          "paddingBottom": "{spacing.050}",
-          "paddingLeft": "{spacing.050}",
-          "itemSpacing": "{spacing.000}",
-          "borderRadius": "{borderRadius.040}"
-        },
-        "type": "composition"
+        "button": {
+          "value": {
+            "paddingTop": "{spacing.040}",
+            "paddingRight": "{spacing.040}",
+            "paddingBottom": "{spacing.040}",
+            "paddingLeft": "{spacing.040}",
+            "itemSpacing": "{spacing.000}",
+            "borderRadius": "{borderRadius.040}"
+          },
+          "type": "composition"
+        }
       }
     }
   },
