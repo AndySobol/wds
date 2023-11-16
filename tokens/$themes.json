@@ -644,10 +644,10 @@
       "typography.link.small.medium": "S:c47bb647544f2ea562bdb8bb29e38192b9919ec7,",
       "typography.link.small.semibold": "S:b5fd0567cc9854830fbcd4e90e1d84af4f2b83d3,",
       "typography.link.small.bold": "S:44ef3d8d2b0368aa88628deac5cec35979d284da,",
-      "typography.link.xsmall.regular": "S:82dbd1d54abc36b6fdf883c5478cb4973c4d3902,",
-      "typography.link.xsmall.medium": "S:f2a3d443be8f7cf3dbd9a9fde0a2765b044951cd,",
-      "typography.link.xsmall.semibold": "S:ff0ed31e20bc1050d017eb9fe8413e1c269a8e37,",
-      "typography.link.xsmall.bold": "S:77858895f08a7c747766686fb86027dfcd4a83b0,"
+      "typography.link.xxsmall.regular": "S:82dbd1d54abc36b6fdf883c5478cb4973c4d3902,",
+      "typography.link.xxsmall.medium": "S:f2a3d443be8f7cf3dbd9a9fde0a2765b044951cd,",
+      "typography.link.xxsmall.semibold": "S:ff0ed31e20bc1050d017eb9fe8413e1c269a8e37,",
+      "typography.link.xxsmall.bold": "S:77858895f08a7c747766686fb86027dfcd4a83b0,"
     },
     "selectedTokenSets": {
       "palette": "source",
