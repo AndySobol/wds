@@ -2262,6 +2262,10 @@
     "070": {
       "value": "{scale.24}rem",
       "type": "borderRadius"
+    },
+    "080": {
+      "value": "{scale.1024} rem",
+      "type": "borderRadius"
     }
   },
   "baserem": {
