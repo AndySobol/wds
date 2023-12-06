@@ -2,8 +2,7 @@
   "tokenSetOrder": [
     "palette",
     "core",
-    "admins/primary",
-    "admins/secondary",
+    "sb",
     "themes/light",
     "themes/dark"
   ]
